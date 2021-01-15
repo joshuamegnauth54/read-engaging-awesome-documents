@@ -3,6 +3,7 @@
 The lists below aren't in any particular orders.
 
 ## Data and statistics
+* [Introduction to Statistical Learning](https://statlearning.com/)
 * [OpenIntro Statistics](https://github.com/OpenIntroStat/openintro-statistics)
 * [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
 * [New York City's Open Data portal](https://opendata.cityofnewyork.us/)
@@ -17,6 +18,18 @@ The lists below aren't in any particular orders.
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - By Allen Downey
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - By Claus O. Wilke
 * [Forecasting Principles and Practices](https://otexts.com/fpp3/) - By Rob J. Hyndman and George Athanasopoulos
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+* [Algorithmic Aspects of Machine Learning](https://people.csail.mit.edu/moitra/docs/bookex.pdf)
+* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Introduction to Machine Learning](https://alex.smola.org/drafts/thebook.pdf) - Smola and Vishwanathan
+* [Data-Intensive Text Processing with MapReduce](https://lintool.github.io/MapReduceAlgorithms/)
+* [Machine Learning with R, the tidyverse, and mlr MEAP](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr)
+* [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+* [R for Data Science](https://r4ds.had.co.nz/) - By Hadley Wickham.
+* [Advanced R](https://adv-r.hadley.nz/) - By Hadley Wickham.
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Graphics
 * [Vulkan Tutorial](https://vulkan-tutorial.com) - Focusses on C but with links to Rust implementations of the code.
@@ -31,6 +44,10 @@ The lists below aren't in any particular orders.
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - By Jim Hefferon
 * [Immersive Linear Algebra](http://immersivemath.com/ila/)
 * [OpenStax textbooks](https://openstax.org/)
+* [Calculus Made Easy](https://calculusmadeeasy.org/)
+* [Calculus Made Easy (Gutenberg copy)](https://www.gutenberg.org/ebooks/33283)
+* [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
+* [Grinstead and Snell's Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - The LaTeX as well as a rendered PDF are available at that source.
 
 ## Miscellaneous
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - The title of this _Joel On Software_ article is completely accurate.
@@ -40,7 +57,10 @@ The lists below aren't in any particular orders.
 * [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
 
 ## Rust
-* [Rust by Example](https://doc.rust-lang.org/rust-by-example)
+* [Rust Reference](https://doc.rust-lang.org/reference/)
+* [The Book](https://doc.rust-lang.org/book/) - Official Rust book.
+* [Rust by Example](https://doc.rust-lang.org/rust-by-example) - Annotated code examples to learn Rust.
+* [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Unsafe Rust book.
 * [A Gentle Introduction to Rust by Steve Donovan](https://stevedonovan.github.io/rust-gentle-intro/) - One of my favorite Rust tutorials.
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - Draw a triangle using the Win32 C API without any outside dependencies.
 * [Vulkano library and tutorial](https://vulkano.rs/) - Vulkano is a safe, Rusty abstraction over Vulkan.
@@ -60,3 +80,5 @@ The lists below aren't in any particular orders.
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## Unix
+* [The Linux Command Line](https://linuxcommand.org/tlcl.php) - By William Shotts
+* [Linux Kernel in a Nutshell](http://files.kroah.com/lkn/) - By Greg Kroah-Hartman
