@@ -30,6 +30,7 @@ The lists below aren't in any particular orders.
 * [R for Data Science](https://r4ds.had.co.nz/) - By Hadley Wickham.
 * [Advanced R](https://adv-r.hadley.nz/) - By Hadley Wickham.
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Learning Statistics with R](https://learningstatisticswithr.com/) - Seems focussed on base R, but I skimmed a couple of chapters and the content is good regardless.
 
 ## Graphics
 * [Vulkan Tutorial](https://vulkan-tutorial.com) - Focusses on C but with links to Rust implementations of the code.
@@ -61,6 +62,9 @@ The lists below aren't in any particular orders.
 * [The Book](https://doc.rust-lang.org/book/) - Official Rust book.
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example) - Annotated code examples to learn Rust.
 * [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Unsafe Rust book.
+* [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+* [Rustlings](https://github.com/rust-lang/rustlings/) - Exercises to practice Rust.
+* [Learning Rust With Entirely Too Many Linked Lists](https://cglab.ca/~abeinges/blah/too-many-lists/book/)
 * [A Gentle Introduction to Rust by Steve Donovan](https://stevedonovan.github.io/rust-gentle-intro/) - One of my favorite Rust tutorials.
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - Draw a triangle using the Win32 C API without any outside dependencies.
 * [Vulkano library and tutorial](https://vulkano.rs/) - Vulkano is a safe, Rusty abstraction over Vulkan.
