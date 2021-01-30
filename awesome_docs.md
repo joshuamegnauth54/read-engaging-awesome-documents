@@ -2,6 +2,12 @@
 
 The lists below aren't in any particular orders.
 
+## C and C++
+* [Build Your Own Lisp](http://buildyourownlisp.com/) - By Daniel Holden
+* [Open Data Structures](https://opendatastructures.org/) - Contains ports to other languages.
+* [Think C++](https://greenteapress.com/thinkcpp/index.html) - Allen Downey.
+* [The Boost C++ Libraries](https://theboostcpplibraries.com/) - By Boris Schäling.
+
 ## Data and statistics
 * [Introduction to Statistical Learning](https://statlearning.com/)
 * [OpenIntro Statistics](https://github.com/OpenIntroStat/openintro-statistics)
@@ -29,8 +35,10 @@ The lists below aren't in any particular orders.
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [R for Data Science](https://r4ds.had.co.nz/) - By Hadley Wickham.
 * [Advanced R](https://adv-r.hadley.nz/) - By Hadley Wickham.
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) - By Garret Grolemund
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Learning Statistics with R](https://learningstatisticswithr.com/) - Seems focussed on base R, but I skimmed a couple of chapters and the content is good regardless.
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - By Max Kuhn and Kjell Johnson
 
 ## Graphics
 * [Vulkan Tutorial](https://vulkan-tutorial.com) - Focusses on C but with links to Rust implementations of the code.
@@ -39,6 +47,7 @@ The lists below aren't in any particular orders.
 * [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/)
 * [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Michael Abrash's Black Book of Graphics Programming](https://github.com/jagregory/abrash-black-book)- The original text is freely available, but this is a cleaned up, tractable version.
+* [LearnOpenGL book](https://learnopengl.com/)
 
 ## Math
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
@@ -49,6 +58,7 @@ The lists below aren't in any particular orders.
 * [Calculus Made Easy (Gutenberg copy)](https://www.gutenberg.org/ebooks/33283)
 * [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
 * [Grinstead and Snell's Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - The LaTeX as well as a rendered PDF are available at that source.
+* [Vector Math for 3D Computer Graphics](https://chortle.ccsu.edu/vectorlessons/)
 
 ## Miscellaneous
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - The title of this _Joel On Software_ article is completely accurate.
@@ -63,13 +73,17 @@ The lists below aren't in any particular orders.
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example) - Annotated code examples to learn Rust.
 * [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Unsafe Rust book.
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+* [Tour of Rust](https://tourofrust.com/) - Guided tutorial through Rust features.
 * [Rustlings](https://github.com/rust-lang/rustlings/) - Exercises to practice Rust.
+* [Rust Asynchronous Programming book](https://rust-lang.github.io/async-book/)
 * [Learning Rust With Entirely Too Many Linked Lists](https://cglab.ca/~abeinges/blah/too-many-lists/book/)
 * [A Gentle Introduction to Rust by Steve Donovan](https://stevedonovan.github.io/rust-gentle-intro/) - One of my favorite Rust tutorials.
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - Draw a triangle using the Win32 C API without any outside dependencies.
 * [Vulkano library and tutorial](https://vulkano.rs/) - Vulkano is a safe, Rusty abstraction over Vulkan.
 * [Rust Error Handling](https://blog.burntsushi.net/rust-error-handling/) - Burntsushi's excellent guide on Rust error handling techniques.
 * [Rust cheat sheet](https://cheats.rs/)
+* [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
+* [Rust WebAssembly book](https://rustwasm.github.io/docs/book/)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system.
 * [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust) - Convert an algorithm from C to "ugly" Rust and then finally to idiomatic Rust.
 * [Tom Holloway's notes on WGPU](https://nyxtom.dev/2020/10/08/framebuffers/)
@@ -80,9 +94,12 @@ The lists below aren't in any particular orders.
 * [Phil's Operating System in Rust blog](https://os.phil-opp.com/)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 * [Writing an NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
+* [Rust sokoban](https://sokoban.iolivia.me/) - A tutorial to write a sokoban game in Rust.
 * [Safety in Systems Programming course](https://reberhardt.com/cs110l/)
+* [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
-## Unix
+## Unix/Computing
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) - By William Shotts
 * [Linux Kernel in a Nutshell](http://files.kroah.com/lkn/) - By Greg Kroah-Hartman
+* [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
