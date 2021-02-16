@@ -2,6 +2,9 @@
 
 The lists below aren't in any particular orders.
 
+Some of the texts may capriciously disappear from the links below. Almost everything is mirrored at multiple locations which thus means they're easy to find again.
+You may submit a pull request or issue with new links if the original changes.
+
 ## C and C++
 * [Build Your Own Lisp](http://buildyourownlisp.com/) - By Daniel Holden
 * [Open Data Structures](https://opendatastructures.org/) - Contains ports to other languages.
@@ -57,6 +60,7 @@ The lists below aren't in any particular orders.
 * [Calculus Made Easy](https://calculusmadeeasy.org/)
 * [Calculus Made Easy (Gutenberg copy)](https://www.gutenberg.org/ebooks/33283)
 * [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
+* [A First Course in Linear Algebra](https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf) - By Ken Kuttler
 * [Grinstead and Snell's Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - The LaTeX as well as a rendered PDF are available at that source.
 * [Vector Math for 3D Computer Graphics](https://chortle.ccsu.edu/vectorlessons/)
 
@@ -74,6 +78,7 @@ The lists below aren't in any particular orders.
 * [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Unsafe Rust book.
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 * [Tour of Rust](https://tourofrust.com/) - Guided tutorial through Rust features.
+* [Cargo book](https://doc.rust-lang.org/cargo/)
 * [Rustlings](https://github.com/rust-lang/rustlings/) - Exercises to practice Rust.
 * [Rust Asynchronous Programming book](https://rust-lang.github.io/async-book/)
 * [Learning Rust With Entirely Too Many Linked Lists](https://cglab.ca/~abeinges/blah/too-many-lists/book/)
@@ -95,6 +100,7 @@ The lists below aren't in any particular orders.
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 * [Writing an NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
 * [Rust sokoban](https://sokoban.iolivia.me/) - A tutorial to write a sokoban game in Rust.
+* [Rust: A unique perspective](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html) - Matt Brubeck's blog post explaining borrowing/mutability in terms of "unique" access to data.
 * [Safety in Systems Programming course](https://reberhardt.com/cs110l/)
 * [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
