@@ -101,6 +101,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Writing an NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
 * [Rust sokoban](https://sokoban.iolivia.me/) - A tutorial to write a sokoban game in Rust.
 * [Rust: A unique perspective](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html) - Matt Brubeck's blog post explaining borrowing/mutability in terms of "unique" access to data.
+* [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/) - By Herbert Wolverson (who has a full book on Rust!).
 * [Safety in Systems Programming course](https://reberhardt.com/cs110l/)
 * [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
