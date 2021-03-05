@@ -16,6 +16,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [OpenIntro Statistics](https://github.com/OpenIntroStat/openintro-statistics)
 * [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
 * [New York City's Open Data portal](https://opendata.cityofnewyork.us/)
+* [Google's BigQuery](https://cloud.google.com/bigquery/public-data)
 * [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse](https://github.com/moderndive/ModernDive_book)
 * [Practical Deep Learning for Coders (PyTorch tutorial)](https://course.fast.ai/)
 * [Statistics for Data Science](https://dtkaplan.github.io/SDS-book/) - By Daniel Kaplan
@@ -39,6 +40,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [R for Data Science](https://r4ds.had.co.nz/) - By Hadley Wickham.
 * [Advanced R](https://adv-r.hadley.nz/) - By Hadley Wickham.
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) - By Garret Grolemund
+* [Andreas Müller's machine learning lectures](https://www.cs.columbia.edu/~amueller/courses/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Learning Statistics with R](https://learningstatisticswithr.com/) - Seems focussed on base R, but I skimmed a couple of chapters and the content is good regardless.
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - By Max Kuhn and Kjell Johnson
