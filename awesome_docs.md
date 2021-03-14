@@ -16,6 +16,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [OpenIntro Statistics](https://github.com/OpenIntroStat/openintro-statistics)
 * [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
 * [New York City's Open Data portal](https://opendata.cityofnewyork.us/)
+* [Voteview](https://voteview.com) - Congressional data.
 * [Google's BigQuery](https://cloud.google.com/bigquery/public-data)
 * [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse](https://github.com/moderndive/ModernDive_book)
 * [Practical Deep Learning for Coders (PyTorch tutorial)](https://course.fast.ai/)
@@ -30,12 +31,16 @@ You may submit a pull request or issue with new links if the original changes.
 * [Forecasting Principles and Practices](https://otexts.com/fpp3/) - By Rob J. Hyndman and George Athanasopoulos
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Deep Learning book](https://www.deeplearningbook.org/) - By Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+* [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/)
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 * [Algorithmic Aspects of Machine Learning](https://people.csail.mit.edu/moitra/docs/bookex.pdf)
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Introduction to Machine Learning](https://alex.smola.org/drafts/thebook.pdf) - Smola and Vishwanathan
 * [Data-Intensive Text Processing with MapReduce](https://lintool.github.io/MapReduceAlgorithms/)
 * [Machine Learning with R, the tidyverse, and mlr MEAP](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr)
+* [Natural Language Processing with Python](https://www.nltk.org/book/) - A.k.a. the NLTK book by Steven Bird, Ewan Klein, and Edward Loper
+* [spaCy course](https://course.spacy.io) - Course on spaCy (NLP) by Ines, a core developer.
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [R for Data Science](https://r4ds.had.co.nz/) - By Hadley Wickham.
 * [Advanced R](https://adv-r.hadley.nz/) - By Hadley Wickham.
@@ -71,7 +76,8 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Python (not necessarily data related)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - By Allen Downey
-* [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
+* [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) - By Al Swiegart
+* [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - By Jake VanderPlas
 
 ## Rust
 * [Rust Reference](https://doc.rust-lang.org/reference/)
