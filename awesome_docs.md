@@ -70,6 +70,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [A First Course in Linear Algebra](https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf) - By Ken Kuttler
 * [Grinstead and Snell's Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - The LaTeX as well as a rendered PDF are available at that source.
 * [Vector Math for 3D Computer Graphics](https://chortle.ccsu.edu/vectorlessons/)
+* [Cheat sheets from Shervine and Afshine Amidi](https://stanford.edu/~shervine/teaching/)
 
 ## Miscellaneous
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - The title of this _Joel On Software_ article is completely accurate.
@@ -96,11 +97,15 @@ You may submit a pull request or issue with new links if the original changes.
 * [Rust Error Handling](https://blog.burntsushi.net/rust-error-handling/) - Burntsushi's excellent guide on Rust error handling techniques.
 * [Rust cheat sheet](https://cheats.rs/)
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
+* [PNGme project](https://picklenerd.github.io/pngme_book/) - Write a program to hide messages in PNG.
 * [Rust WebAssembly book](https://rustwasm.github.io/docs/book/)
-* [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system.
+* [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system (that I've read so far).
+* [Pin and Suffering](https://fasterthanli.me/articles/pin-and-suffering) - Fasterthanlime (Amos)'s explanation of Futures and Pin.
+* [Writing ping in Rust](https://fasterthanli.me/series/making-our-own-ping) - Fasterthanlime's Rust/computer science tutorial on writing ping from scratch.
 * [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust) - Convert an algorithm from C to "ugly" Rust and then finally to idiomatic Rust.
 * [Tom Holloway's notes on WGPU](https://nyxtom.dev/2020/10/08/framebuffers/)
 * [The Unofficial Awesome Rust list](https://github.com/rust-unofficial/awesome-rust)
+* [Zero sized types proofs](https://www.hardmo.de/article/2021-03-14-zst-proof-types.md)
 * [The Rust Embedded Book](https://rust-embedded.github.io/book/)
 * [Rust in Action MEAP](https://www.manning.com/books/rust-in-action) - Tim McNamara's excellent book. I often see McNamara mentioned on _/r/rust_.
 * [Refactoring to Rust MEAP](https://www.manning.com/books/refactoring-to-rust) - Text on Rust FFI and WASM.
@@ -117,4 +122,6 @@ You may submit a pull request or issue with new links if the original changes.
 ## Unix/Computing
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) - By William Shotts
 * [Linux Kernel in a Nutshell](http://files.kroah.com/lkn/) - By Greg Kroah-Hartman
+* [Linux Journey](https://linuxjourney.com/) - Useful for beginners who want a quick start without spinning up a VM.
+* [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
 * [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
