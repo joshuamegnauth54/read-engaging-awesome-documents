@@ -48,6 +48,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Andreas Müller's machine learning lectures](https://www.cs.columbia.edu/~amueller/courses/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Learning Statistics with R](https://learningstatisticswithr.com/) - Seems focussed on base R, but I skimmed a couple of chapters and the content is good regardless.
+* [Modeling and Solving Linear Programming With R](https://www.omniascience.com/books/index.php/scholar/catalog/book/34)
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - By Max Kuhn and Kjell Johnson
 
 ## Graphics
