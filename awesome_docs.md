@@ -130,5 +130,6 @@ You may submit a pull request or issue with new links if the original changes.
 * [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
 * [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
 * [A Heavily Commented Linux Kernel Source Code](http://www.oldlinux.org/)
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 * [Mike Acton of Naughty Dog discussing data oriented design (Video, CppCon)](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [https://cellperformance.beyond3d.com](Mike Acton's Cell programming articles)
