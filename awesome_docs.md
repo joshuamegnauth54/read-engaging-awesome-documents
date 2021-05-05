@@ -88,6 +88,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Unsafe Rust book.
 * [Rust API guidelines](https://rust-lang.github.io/api-guidelines/)
 * [Sizedness explanation](https://github.com/pretzelhammer/rust-blog/blob/master/posts/sizedness-in-rust.md) - By Pretzelhammer.
+* [Lifetime misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) - By Pretzelhammer.
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 * [Tour of Rust](https://tourofrust.com/) - Guided tutorial through Rust features.
 * [Cargo book](https://doc.rust-lang.org/cargo/)
@@ -106,10 +107,12 @@ You may submit a pull request or issue with new links if the original changes.
 * [Pin and Suffering](https://fasterthanli.me/articles/pin-and-suffering) - Fasterthanlime (Amos)'s explanation of Futures and Pin.
 * [Writing ping in Rust](https://fasterthanli.me/series/making-our-own-ping) - Fasterthanlime's Rust/computer science tutorial on writing ping from scratch.
 * [Tiny ECS implementation/tutorial in Rust](https://ianjk.com/ecs-in-rust/)
+* [Bevy engine rhythm game tutorial](https://caballerocoll.com/blog/bevy-rhythm-game/)
 * [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust) - Convert an algorithm from C to "ugly" Rust and then finally to idiomatic Rust.
 * [Tom Holloway's notes on WGPU](https://nyxtom.dev/2020/10/08/framebuffers/)
 * [The Unofficial Awesome Rust list](https://github.com/rust-unofficial/awesome-rust)
 * [Zero sized types proofs](https://www.hardmo.de/article/2021-03-14-zst-proof-types.md)
+* [Asynchronous streams in Rust (Buffering and such)](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html) - Awesome series on buffering streams and handling types and errors.
 * [The Rust Embedded Book](https://rust-embedded.github.io/book/)
 * [Rust in Action MEAP](https://www.manning.com/books/rust-in-action) - Tim McNamara's excellent book. I often see McNamara mentioned on _/r/rust_.
 * [Refactoring to Rust MEAP](https://www.manning.com/books/refactoring-to-rust) - Text on Rust FFI and WASM.
