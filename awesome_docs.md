@@ -99,6 +99,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - Draw a triangle using the Win32 C API without any outside dependencies.
 * [Vulkano library and tutorial](https://vulkano.rs/) - Vulkano is a safe, Rusty abstraction over Vulkan.
 * [Rust Error Handling](https://blog.burntsushi.net/rust-error-handling/) - Burntsushi's excellent guide on Rust error handling techniques.
+* [Error Handling in Rust - A Deep Dive](https://www.lpalmieri.com/posts/error-handling-rust/) - Excerpt from Luca Palmieri's book.
 * [Rust cheat sheet](https://cheats.rs/)
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 * [PNGme project](https://picklenerd.github.io/pngme_book/) - Write a program to hide messages in PNG.
@@ -113,6 +114,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [The Unofficial Awesome Rust list](https://github.com/rust-unofficial/awesome-rust)
 * [Zero sized types proofs](https://www.hardmo.de/article/2021-03-14-zst-proof-types.md)
 * [Asynchronous streams in Rust (Buffering and such)](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html) - Awesome series on buffering streams and handling types and errors.
+* [GTK-rs tutorial book](https://gtk-rs.org/gtk4-rs/git/book/)
 * [The Rust Embedded Book](https://rust-embedded.github.io/book/)
 * [Rust in Action MEAP](https://www.manning.com/books/rust-in-action) - Tim McNamara's excellent book. I often see McNamara mentioned on _/r/rust_.
 * [Refactoring to Rust MEAP](https://www.manning.com/books/refactoring-to-rust) - Text on Rust FFI and WASM.
@@ -135,4 +137,4 @@ You may submit a pull request or issue with new links if the original changes.
 * [A Heavily Commented Linux Kernel Source Code](http://www.oldlinux.org/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 * [Mike Acton of Naughty Dog discussing data oriented design (Video, CppCon)](https://www.youtube.com/watch?v=rX0ItVEVjHc)
-* [https://cellperformance.beyond3d.com](Mike Acton's Cell programming articles)
+* [Mike Acton's Cell programming articles](https://cellperformance.beyond3d.com)
