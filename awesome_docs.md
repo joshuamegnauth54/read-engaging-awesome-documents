@@ -64,6 +64,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - By Jim Hefferon
 * [Immersive Linear Algebra](http://immersivemath.com/ila/)
+* [Linear Algebra Notes](http://math.hunter.cuny.edu/klotzmathnotes/Linear%20Algebra/notes) - Richard Klotz of Hunter CUNY.
 * [OpenStax textbooks](https://openstax.org/)
 * [Calculus Made Easy](https://calculusmadeeasy.org/)
 * [Calculus Made Easy (Gutenberg copy)](https://www.gutenberg.org/ebooks/33283)
@@ -99,7 +100,9 @@ You may submit a pull request or issue with new links if the original changes.
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - Draw a triangle using the Win32 C API without any outside dependencies.
 * [Vulkano library and tutorial](https://vulkano.rs/) - Vulkano is a safe, Rusty abstraction over Vulkan.
 * [Rust Error Handling](https://blog.burntsushi.net/rust-error-handling/) - Burntsushi's excellent guide on Rust error handling techniques.
-* [Error Handling in Rust - A Deep Dive](https://www.lpalmieri.com/posts/error-handling-rust/) - Excerpt from Luca Palmieri's book.
+* [Error Handling in Rust - A Deep Dive](https://www.lpalmieri.com/posts/error-handling-rust/) - Excerpt from Luca Palmieri's Rust book (error handling).
+* [How to Bootstrap a Rust Web API From Scratch](https://www.lpalmieri.com/posts/2020-08-09-zero-to-production-3-how-to-bootstrap-a-new-rust-web-api-from-scratch/) - Excerpt from Luca Palmieri's Rust book.
+* [How to Write a REST Client in Rust](https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/) - Another excerpt from Luca Palmieri's Rust book.
 * [Rust cheat sheet](https://cheats.rs/)
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 * [PNGme project](https://picklenerd.github.io/pngme_book/) - Write a program to hide messages in PNG.
