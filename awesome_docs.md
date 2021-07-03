@@ -65,6 +65,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - By Jim Hefferon
 * [Immersive Linear Algebra](http://immersivemath.com/ila/)
 * [Linear Algebra Notes](http://math.hunter.cuny.edu/klotzmathnotes/Linear%20Algebra/notes) - Richard Klotz of Hunter CUNY.
+* [Gilbert Strang's linear algebra lectures](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 * [OpenStax textbooks](https://openstax.org/)
 * [Calculus Made Easy](https://calculusmadeeasy.org/)
 * [Calculus Made Easy (Gutenberg copy)](https://www.gutenberg.org/ebooks/33283)
@@ -76,6 +77,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Miscellaneous
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - The title of this _Joel On Software_ article is completely accurate.
+* [Project based learning for programming](https://github.com/tuvtran/project-based-learning)
 
 ## Python (not necessarily data related)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - By Allen Downey
@@ -141,3 +143,5 @@ You may submit a pull request or issue with new links if the original changes.
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 * [Mike Acton of Naughty Dog discussing data oriented design (Video, CppCon)](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Mike Acton's Cell programming articles](https://cellperformance.beyond3d.com)
+* [Making Sense of the Audio Stack on Unix](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html)
+* [PipeWire Under the Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
