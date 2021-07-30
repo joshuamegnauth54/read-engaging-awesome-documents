@@ -10,6 +10,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Open Data Structures](https://opendatastructures.org/) - Contains ports to other languages.
 * [Think C++](https://greenteapress.com/thinkcpp/index.html) - Allen Downey.
 * [The Boost C++ Libraries](https://theboostcpplibraries.com/) - By Boris Schäling.
+* [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 
 ## Data and statistics
 * [Introduction to Statistical Learning](https://statlearning.com/)
@@ -81,6 +82,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Python (not necessarily data related)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - By Allen Downey
+* [LISP interpreter in Python](https://norvig.com/lispy.html) - By Peter Norvig.
 * [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) - By Al Swiegart
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - By Jake VanderPlas
 
@@ -112,6 +114,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system (that I've read so far).
 * [Pin and Suffering](https://fasterthanli.me/articles/pin-and-suffering) - Fasterthanlime (Amos)'s explanation of Futures and Pin.
 * [Writing ping in Rust](https://fasterthanli.me/series/making-our-own-ping) - Fasterthanlime's Rust/computer science tutorial on writing ping from scratch.
+* [Understanding Rust Futures](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep) - Another Futures guide by Fasterthanlime.
 * [Tiny ECS implementation/tutorial in Rust](https://ianjk.com/ecs-in-rust/)
 * [Bevy engine rhythm game tutorial](https://caballerocoll.com/blog/bevy-rhythm-game/)
 * [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust) - Convert an algorithm from C to "ugly" Rust and then finally to idiomatic Rust.
@@ -121,11 +124,14 @@ You may submit a pull request or issue with new links if the original changes.
 * [Asynchronous streams in Rust (Buffering and such)](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html) - Awesome series on buffering streams and handling types and errors.
 * [GTK-rs tutorial book](https://gtk-rs.org/gtk4-rs/git/book/)
 * [The Rust Embedded Book](https://rust-embedded.github.io/book/)
+* [Small Rust binaries](https://github.com/johnthagen/min-sized-rust)
+* [Extension traits](http://xion.io/post/code/rust-extension-traits.html)
 * [Rust in Action MEAP](https://www.manning.com/books/rust-in-action) - Tim McNamara's excellent book. I often see McNamara mentioned on _/r/rust_.
 * [Refactoring to Rust MEAP](https://www.manning.com/books/refactoring-to-rust) - Text on Rust FFI and WASM.
 * [Phil's Operating System in Rust blog](https://os.phil-opp.com/)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 * [Writing an NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
+* [RISP](https://rust-fuzz.github.io/book/cargo-fuzz/tutorial.html) - Rust tutorial for writing a LISP interpreter.
 * [Rust sokoban](https://sokoban.iolivia.me/) - A tutorial to write a sokoban game in Rust.
 * [Rust: A unique perspective](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html) - Matt Brubeck's blog post explaining borrowing/mutability in terms of "unique" access to data.
 * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/) - By Herbert Wolverson (who has a full book on Rust!).
@@ -133,15 +139,23 @@ You may submit a pull request or issue with new links if the original changes.
 * [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
+## JavaScript
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [The Odin Project](https://www.theodinproject.com/)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+
 ## Unix/Computing
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) - By William Shotts
 * [Linux Kernel in a Nutshell](http://files.kroah.com/lkn/) - By Greg Kroah-Hartman
 * [Linux Journey](https://linuxjourney.com/) - Useful for beginners who want a quick start without spinning up a VM.
 * [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
 * [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
+* [The Architecture of Open Source Applications (AOSA)](https://www.aosabook.org/en/index.html)
+* [Notes on Structured Concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 * [A Heavily Commented Linux Kernel Source Code](http://www.oldlinux.org/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 * [Mike Acton of Naughty Dog discussing data oriented design (Video, CppCon)](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Mike Acton's Cell programming articles](https://cellperformance.beyond3d.com)
 * [Making Sense of the Audio Stack on Unix](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html)
 * [PipeWire Under the Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
+* [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
