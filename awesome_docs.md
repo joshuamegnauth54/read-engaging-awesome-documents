@@ -60,6 +60,9 @@ You may submit a pull request or issue with new links if the original changes.
 * [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Michael Abrash's Black Book of Graphics Programming](https://github.com/jagregory/abrash-black-book)- The original text is freely available, but this is a cleaned up, tractable version.
 * [LearnOpenGL book](https://learnopengl.com/)
+* [Shadertoy](https://www.shadertoy.com/)
+* [SHADERed](https://shadered.org/)
+* [Inigo Quilez's blog](https://www.iquilezles.org/) - Maths and graphics programming
 
 ## Math
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
