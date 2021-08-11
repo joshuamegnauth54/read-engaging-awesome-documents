@@ -2,7 +2,7 @@
 
 The lists below aren't in any particular orders.
 
-Some of the texts may capriciously disappear from the links below. Almost everything is mirrored at multiple locations which thus means they're easy to find again.
+Some of the links may capriciously disappear. Most of the textbooks are mirrored at multiple locations which thus means they're easy to find again.
 You may submit a pull request or issue with new links if the original changes.
 
 ## C and C++
@@ -82,6 +82,7 @@ You may submit a pull request or issue with new links if the original changes.
 ## Miscellaneous
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - The title of this _Joel On Software_ article is completely accurate.
 * [Project based learning for programming](https://github.com/tuvtran/project-based-learning)
+* [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 
 ## Python (not necessarily data related)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - By Allen Downey
@@ -129,6 +130,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [The Rust Embedded Book](https://rust-embedded.github.io/book/)
 * [Small Rust binaries](https://github.com/johnthagen/min-sized-rust)
 * [Extension traits](http://xion.io/post/code/rust-extension-traits.html)
+* [Rust Module of the Week](https://motw.rs/)
 * [Rust in Action MEAP](https://www.manning.com/books/rust-in-action) - Tim McNamara's excellent book. I often see McNamara mentioned on _/r/rust_.
 * [Refactoring to Rust MEAP](https://www.manning.com/books/refactoring-to-rust) - Text on Rust FFI and WASM.
 * [Phil's Operating System in Rust blog](https://os.phil-opp.com/)
