@@ -62,11 +62,13 @@ You may submit a pull request or issue with new links if the original changes.
 * [LearnOpenGL book](https://learnopengl.com/)
 * [Shadertoy](https://www.shadertoy.com/)
 * [SHADERed](https://shadered.org/)
-* [Inigo Quilez's blog](https://www.iquilezles.org/) - Maths and graphics programming
+* [Inigo Quilez's blog](https://www.iquilezles.org/) - Maths and graphics programming blog.
 
 ## Math
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - By Jim Hefferon
+* [3D Math Primer for Graphics and Game Development](https://gamemath.com/) - Out of print book that the authors released for free.
+* [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 * [Immersive Linear Algebra](http://immersivemath.com/ila/)
 * [Linear Algebra Notes](http://math.hunter.cuny.edu/klotzmathnotes/Linear%20Algebra/notes) - Richard Klotz of Hunter CUNY.
 * [Gilbert Strang's linear algebra lectures](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
@@ -158,9 +160,11 @@ You may submit a pull request or issue with new links if the original changes.
 * [The Architecture of Open Source Applications (AOSA)](https://www.aosabook.org/en/index.html)
 * [Notes on Structured Concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 * [A Heavily Commented Linux Kernel Source Code](http://www.oldlinux.org/)
+* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 * [Mike Acton of Naughty Dog discussing data oriented design (Video, CppCon)](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Mike Acton's Cell programming articles](https://cellperformance.beyond3d.com)
 * [Making Sense of the Audio Stack on Unix](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html)
 * [PipeWire Under the Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
 * [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
+* [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
