@@ -129,6 +129,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Zero sized types proofs](https://www.hardmo.de/article/2021-03-14-zst-proof-types.md)
 * [Asynchronous streams in Rust (Buffering and such)](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html) - Awesome series on buffering streams and handling types and errors.
 * [GTK-rs tutorial book](https://gtk-rs.org/gtk4-rs/git/book/)
+* [Building an LC-3 virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
 * [The Rust Embedded Book](https://rust-embedded.github.io/book/)
 * [Small Rust binaries](https://github.com/johnthagen/min-sized-rust)
 * [Extension traits](http://xion.io/post/code/rust-extension-traits.html)
@@ -168,3 +169,4 @@ You may submit a pull request or issue with new links if the original changes.
 * [PipeWire Under the Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
 * [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
 * [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
+* [Wayland protocol](https://wayland-book.com/)
