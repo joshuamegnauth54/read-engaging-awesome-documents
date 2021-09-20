@@ -43,6 +43,8 @@ You may submit a pull request or issue with new links if the original changes.
 * [Natural Language Processing with Python](https://www.nltk.org/book/) - A.k.a. the NLTK book by Steven Bird, Ewan Klein, and Edward Loper
 * [spaCy course](https://course.spacy.io) - Course on spaCy (NLP) by Ines, a core developer.
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+* [Data Mining and Machine Learning](https://dataminingbook.info/book_html/)
+* [Guide to Data Mining](http://guidetodatamining.com/)
 * [R for Data Science](https://r4ds.had.co.nz/) - By Hadley Wickham.
 * [Advanced R](https://adv-r.hadley.nz/) - By Hadley Wickham.
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) - By Garret Grolemund
