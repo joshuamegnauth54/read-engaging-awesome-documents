@@ -132,6 +132,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Asynchronous streams in Rust (Buffering and such)](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html) - Awesome series on buffering streams and handling types and errors.
 * [GTK-rs tutorial book](https://gtk-rs.org/gtk4-rs/git/book/)
 * [Building an LC-3 virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
+* [Raspberry Pi OS tutorial](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 * [The Rust Embedded Book](https://rust-embedded.github.io/book/)
 * [Small Rust binaries](https://github.com/johnthagen/min-sized-rust)
 * [Extension traits](http://xion.io/post/code/rust-extension-traits.html)
