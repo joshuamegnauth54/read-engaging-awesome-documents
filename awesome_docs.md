@@ -16,6 +16,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Introduction to Statistical Learning](https://statlearning.com/)
 * [OpenIntro Statistics](https://github.com/OpenIntroStat/openintro-statistics)
 * [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
+* [Public web APIs](https://github.com/public-apis/public-apis)
 * [New York City's Open Data portal](https://opendata.cityofnewyork.us/)
 * [Voteview](https://voteview.com) - Congressional data.
 * [Google's BigQuery](https://cloud.google.com/bigquery/public-data)
@@ -62,6 +63,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Michael Abrash's Black Book of Graphics Programming](https://github.com/jagregory/abrash-black-book)- The original text is freely available, but this is a cleaned up, tractable version.
 * [LearnOpenGL book](https://learnopengl.com/)
+* [The Book of Shaders](https://thebookofshaders.com/)
 * [Shadertoy](https://www.shadertoy.com/)
 * [SHADERed](https://shadered.org/)
 * [Inigo Quilez's blog](https://www.iquilezles.org/) - Maths and graphics programming blog.
@@ -146,6 +148,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Rust sokoban](https://sokoban.iolivia.me/) - A tutorial to write a sokoban game in Rust.
 * [Rust: A unique perspective](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html) - Matt Brubeck's blog post explaining borrowing/mutability in terms of "unique" access to data.
 * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/) - By Herbert Wolverson (who has a full book on Rust!).
+* [Emergent A.I.](https://psichix.github.io/emergent/)
 * [Safety in Systems Programming course](https://reberhardt.com/cs110l/)
 * [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
