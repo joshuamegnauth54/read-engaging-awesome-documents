@@ -173,6 +173,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Mike Acton's Cell programming articles](https://cellperformance.beyond3d.com)
 * [Making Sense of the Audio Stack on Unix](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html)
 * [PipeWire Under the Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
+* [The TTY Demystified](https://www.linusakesson.net/programming/tty/)
 * [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
 * [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
 * [Wayland protocol](https://wayland-book.com/)
