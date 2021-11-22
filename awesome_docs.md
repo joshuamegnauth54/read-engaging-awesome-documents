@@ -169,6 +169,8 @@ You may submit a pull request or issue with new links if the original changes.
 * [The Architecture of Open Source Applications (AOSA)](https://www.aosabook.org/en/index.html)
 * [Notes on Structured Concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 * [A Heavily Commented Linux Kernel Source Code](http://www.oldlinux.org/)
+* [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/)
+* [Data Compression Explained](http://mattmahoney.net/dc/dce.html)
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 * [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
