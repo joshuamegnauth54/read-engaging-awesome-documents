@@ -14,6 +14,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Data and statistics
 * [Introduction to Statistical Learning](https://statlearning.com/)
+* [Computer Age Statistical Inference](https://hastie.su.domains/CASI/)
 * [OpenIntro Statistics](https://github.com/OpenIntroStat/openintro-statistics)
 * [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
 * [Public web APIs](https://github.com/public-apis/public-apis)
