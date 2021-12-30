@@ -113,6 +113,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Learning Rust With Entirely Too Many Linked Lists](https://cglab.ca/~abeinges/blah/too-many-lists/book/)
 * [A Gentle Introduction to Rust by Steve Donovan](https://stevedonovan.github.io/rust-gentle-intro/) - One of my favorite Rust tutorials.
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - Draw a triangle using the Win32 C API without any outside dependencies.
+* [Minimal Lua implementation from scratch](https://notes.eatonphil.com/lua-in-rust.html)
 * [Vulkano library and tutorial](https://vulkano.rs/) - Vulkano is a safe, Rusty abstraction over Vulkan.
 * [Rust Error Handling](https://blog.burntsushi.net/rust-error-handling/) - Burntsushi's excellent guide on Rust error handling techniques.
 * [Error Handling in Rust - A Deep Dive](https://www.lpalmieri.com/posts/error-handling-rust/) - Excerpt from Luca Palmieri's Rust book (error handling).
