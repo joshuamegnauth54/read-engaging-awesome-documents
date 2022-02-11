@@ -159,6 +159,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/) - By Herbert Wolverson (who has a full book on Rust!).
 * [Emergent A.I.](https://psichix.github.io/emergent/)
 * [Safety in Systems Programming course](https://reberhardt.com/cs110l/)
+* [Rustenstein](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
 * [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
@@ -171,6 +172,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) - By William Shotts
 * [Linux Kernel in a Nutshell](http://files.kroah.com/lkn/) - By Greg Kroah-Hartman
 * [Linux Journey](https://linuxjourney.com/) - Useful for beginners who want a quick start without spinning up a VM.
+* [Game Engine Black Book](https://fabiensanglard.net/gebb/index.html)
 * [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
 * [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
 * [The Architecture of Open Source Applications (AOSA)](https://www.aosabook.org/en/index.html)
