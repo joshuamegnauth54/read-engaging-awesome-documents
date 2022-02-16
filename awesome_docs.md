@@ -69,6 +69,8 @@ You may submit a pull request or issue with new links if the original changes.
 * [SHADERed](https://shadered.org/)
 * [Inigo Quilez's blog](https://www.iquilezles.org/) - Maths and graphics programming blog.
 * [Rust Ashen Aetna (Vulkan tutorial)](https://hoj-senna.github.io/ashen-aetna/)
+* [Vulkan with Rust by Example](https://nikitablack.github.io/post/vulkan_with_rust_by_example_0_introduction/)
+* [An API Without Secrets (Vulkan)](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-preface.html)
 * [Rust OpenGL tutorial](https://nercury.github.io/)
 
 ## Math
@@ -173,6 +175,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Linux Kernel in a Nutshell](http://files.kroah.com/lkn/) - By Greg Kroah-Hartman
 * [Linux Journey](https://linuxjourney.com/) - Useful for beginners who want a quick start without spinning up a VM.
 * [Game Engine Black Book](https://fabiensanglard.net/gebb/index.html)
+* [Crafting Interpeters](https://craftinginterpreters.com/) - Book explaining how to write interpreters.
 * [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
 * [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
 * [The Architecture of Open Source Applications (AOSA)](https://www.aosabook.org/en/index.html)
