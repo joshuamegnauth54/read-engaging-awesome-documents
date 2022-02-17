@@ -58,6 +58,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Graphics
 * [Vulkan Tutorial](https://vulkan-tutorial.com) - Focusses on C but with links to Rust implementations of the code.
+* [The Book of Shaders](https://thebookofshaders.com/)
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - OpenGL tutorial. Covers 3D rendering techniques and ideas.
 * [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
 * [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/)
