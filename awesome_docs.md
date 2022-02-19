@@ -56,7 +56,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Modeling and Solving Linear Programming With R](https://www.omniascience.com/books/index.php/scholar/catalog/book/34)
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - By Max Kuhn and Kjell Johnson
 
-## Graphics
+## Graphics and GPU computing
 * [Vulkan Tutorial](https://vulkan-tutorial.com) - Focusses on C but with links to Rust implementations of the code.
 * [The Book of Shaders](https://thebookofshaders.com/)
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - OpenGL tutorial. Covers 3D rendering techniques and ideas.
@@ -73,6 +73,8 @@ You may submit a pull request or issue with new links if the original changes.
 * [Vulkan with Rust by Example](https://nikitablack.github.io/post/vulkan_with_rust_by_example_0_introduction/)
 * [An API Without Secrets (Vulkan)](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-preface.html)
 * [Rust OpenGL tutorial](https://nercury.github.io/)
+* [Anton's OpenGL 4 tutorial](https://antongerdelan.net/opengl/)
+* [Image filter in Rust using WGPU](https://blog.redwarp.app/image-filters/)
 
 ## Math
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
