@@ -88,6 +88,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Calculus Made Easy](https://calculusmadeeasy.org/)
 * [Calculus Made Easy (Gutenberg copy)](https://www.gutenberg.org/ebooks/33283)
 * [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
+* [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 * [A First Course in Linear Algebra](https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf) - By Ken Kuttler
 * [Grinstead and Snell's Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - The LaTeX as well as a rendered PDF are available at that source.
 * [Vector Math for 3D Computer Graphics](https://chortle.ccsu.edu/vectorlessons/)
@@ -166,6 +167,8 @@ You may submit a pull request or issue with new links if the original changes.
 * [Safety in Systems Programming course](https://reberhardt.com/cs110l/)
 * [Rustenstein](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
 * [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
+* [Effective Rust](https://lurklurk.org/effective-rust/)
+* [Rust by Practice](https://practice.rs/)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## JavaScript
