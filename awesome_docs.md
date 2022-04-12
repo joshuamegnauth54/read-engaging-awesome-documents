@@ -18,6 +18,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [OpenIntro Statistics](https://github.com/OpenIntroStat/openintro-statistics)
 * [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
 * [Public web APIs](https://github.com/public-apis/public-apis)
+* [PennState Stats notes](https://online.stat.psu.edu/)
 * [New York City's Open Data portal](https://opendata.cityofnewyork.us/)
 * [Voteview](https://voteview.com) - Congressional data.
 * [Google's BigQuery](https://cloud.google.com/bigquery/public-data)
@@ -135,6 +136,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [PNGme project](https://picklenerd.github.io/pngme_book/) - Write a program to hide messages in PNG.
 * [RISC operating system in Rust](https://osblog.stephenmarz.com/) - By Stephen Marz
 * [Rust WebAssembly book](https://rustwasm.github.io/docs/book/)
+* [High Assurance Rust book](https://highassurance.rs/)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system (that I've read so far).
 * [Builder pattern with type state](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/) - Excellent explanation of Rust's builder pattern.
 * [Pin and Suffering](https://fasterthanli.me/articles/pin-and-suffering) - Fasterthanlime (Amos)'s explanation of Futures and Pin.
@@ -182,6 +184,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Linux Journey](https://linuxjourney.com/) - Useful for beginners who want a quick start without spinning up a VM.
 * [Game Engine Black Book](https://fabiensanglard.net/gebb/index.html)
 * [Crafting Interpeters](https://craftinginterpreters.com/) - Book explaining how to write interpreters.
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
 * [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
 * [The Architecture of Open Source Applications (AOSA)](https://www.aosabook.org/en/index.html)
@@ -200,3 +203,5 @@ You may submit a pull request or issue with new links if the original changes.
 * [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
 * [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
 * [Wayland protocol](https://wayland-book.com/)
+* [Rusty computer science curriculum](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+* [Software Carpentry](https://software-carpentry.org/)
