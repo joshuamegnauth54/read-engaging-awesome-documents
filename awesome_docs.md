@@ -59,14 +59,16 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Graphics and GPU computing
 * [Vulkan Tutorial](https://vulkan-tutorial.com) - Focusses on C but with links to Rust implementations of the code.
+* [docs.GL - OpenGL documentation](https://docs.gl/) - Better OpenGL documentation
 * [The Book of Shaders](https://thebookofshaders.com/)
+* [Lighthouse 3D's shader tutorial](https://www.lighthouse3d.com/2012/02/glsl-core-tutorial/)
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - OpenGL tutorial. Covers 3D rendering techniques and ideas.
 * [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
 * [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/)
 * [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Michael Abrash's Black Book of Graphics Programming](https://github.com/jagregory/abrash-black-book)- The original text is freely available, but this is a cleaned up, tractable version.
 * [LearnOpenGL book](https://learnopengl.com/)
-* [The Book of Shaders](https://thebookofshaders.com/)
+* [Overv's OpenGL guide](https://open.gl/)
 * [Shadertoy](https://www.shadertoy.com/)
 * [SHADERed](https://shadered.org/)
 * [Inigo Quilez's blog](https://www.iquilezles.org/) - Maths and graphics programming blog.
@@ -171,6 +173,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
 * [Effective Rust](https://lurklurk.org/effective-rust/)
 * [Rust by Practice](https://practice.rs/)
+* [Shaking off the Rust](https://www.sotr.blog/)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## JavaScript
