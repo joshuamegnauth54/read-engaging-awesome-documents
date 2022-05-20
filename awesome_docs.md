@@ -79,6 +79,11 @@ You may submit a pull request or issue with new links if the original changes.
 * [Anton's OpenGL 4 tutorial](https://antongerdelan.net/opengl/)
 * [Image filter in Rust using WGPU](https://blog.redwarp.app/image-filters/)
 
+## JavaScript
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [The Odin Project](https://www.theodinproject.com/)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+
 ## Math
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - By Jim Hefferon
@@ -176,10 +181,8 @@ You may submit a pull request or issue with new links if the original changes.
 * [Shaking off the Rust](https://www.sotr.blog/)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
-## JavaScript
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [The Odin Project](https://www.theodinproject.com/)
-* [The Modern JavaScript Tutorial](https://javascript.info/)
+## SQL
+* [PostgreSQL Exercises](https://pgexercises.com/)
 
 ## Unix/Computing
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) - By William Shotts
