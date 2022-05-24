@@ -146,6 +146,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [High Assurance Rust book](https://highassurance.rs/)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system (that I've read so far).
 * [Builder pattern with type state](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/) - Excellent explanation of Rust's builder pattern.
+* [Generic Returns](https://blog.jcoglan.com/2019/04/22/generic-returns-in-rust/)
 * [Pin and Suffering](https://fasterthanli.me/articles/pin-and-suffering) - Fasterthanlime (Amos)'s explanation of Futures and Pin.
 * [Writing ping in Rust](https://fasterthanli.me/series/making-our-own-ping) - Fasterthanlime's Rust/computer science tutorial on writing ping from scratch.
 * [Understanding Rust Futures](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep) - Another Futures guide by Fasterthanlime.
