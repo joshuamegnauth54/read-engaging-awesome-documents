@@ -202,6 +202,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 * [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+* [Kernel Newbies](https://kernelnewbies.org/)
 * [Mike Acton of Naughty Dog discussing data oriented design (Video, CppCon)](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Mike Acton's Cell programming articles](https://cellperformance.beyond3d.com)
 * [Making Sense of the Audio Stack on Unix](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html)
