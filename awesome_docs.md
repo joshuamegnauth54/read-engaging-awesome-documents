@@ -71,6 +71,8 @@ You may submit a pull request or issue with new links if the original changes.
 * [Overv's OpenGL guide](https://open.gl/)
 * [Shadertoy](https://www.shadertoy.com/)
 * [SHADERed](https://shadered.org/)
+* [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
+* [Awesome OpenGL](https://github.com/eug/awesome-opengl)
 * [Inigo Quilez's blog](https://www.iquilezles.org/) - Maths and graphics programming blog.
 * [Rust Ashen Aetna (Vulkan tutorial)](https://hoj-senna.github.io/ashen-aetna/)
 * [Vulkan with Rust by Example](https://nikitablack.github.io/post/vulkan_with_rust_by_example_0_introduction/)
