@@ -59,6 +59,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Graphics and GPU computing
 * [Vulkan Tutorial](https://vulkan-tutorial.com) - Focusses on C but with links to Rust implementations of the code.
+* [Vulkan Guide](https://vkguide.dev/) - Modern Vulkan tutorial
 * [docs.GL - OpenGL documentation](https://docs.gl/) - Better OpenGL documentation
 * [The Book of Shaders](https://thebookofshaders.com/)
 * [Lighthouse 3D's shader tutorial](https://www.lighthouse3d.com/2012/02/glsl-core-tutorial/)
@@ -69,6 +70,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Michael Abrash's Black Book of Graphics Programming](https://github.com/jagregory/abrash-black-book)- The original text is freely available, but this is a cleaned up, tractable version.
 * [LearnOpenGL book](https://learnopengl.com/)
 * [Overv's OpenGL guide](https://open.gl/)
+* [Scratch a Pixel](https://www.scratchapixel.com/)
 * [Shadertoy](https://www.shadertoy.com/)
 * [SHADERed](https://shadered.org/)
 * [GLSL Sandbox](https://glslsandbox.com/)
