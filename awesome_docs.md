@@ -214,6 +214,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [PipeWire Under the Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
 * [The TTY Demystified](https://www.linusakesson.net/programming/tty/)
 * [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
+* [Fibers Under the Magnifying Glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 * [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
 * [Wayland protocol](https://wayland-book.com/)
 * [Rusty computer science curriculum](https://github.com/AbdesamedBendjeddou/Rusty-CS)
