@@ -57,6 +57,16 @@ You may submit a pull request or issue with new links if the original changes.
 * [Modeling and Solving Linear Programming With R](https://www.omniascience.com/books/index.php/scholar/catalog/book/34)
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - By Max Kuhn and Kjell Johnson
 
+## Games
+* [Tonc](https://www.coranac.com/tonc/text/) - Writing Game Boy Advance games.
+* [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical info on the GBA, NDS, and 3DS.
+* [Game Boy Op Codes](https://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
+
+## Git
+* [Altassian book](https://www.atlassian.com/git/tutorials)
+* [Simple git guide](https://rogerdudler.github.io/git-guide/)
+* [Dang It, Git](https://dangitgit.com/) - Useful snippets
+
 ## Graphics and GPU computing
 * [Vulkan Tutorial](https://vulkan-tutorial.com) - Focusses on C but with links to Rust implementations of the code.
 * [Vulkan Guide](https://vkguide.dev/) - Modern Vulkan tutorial
@@ -82,6 +92,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [An API Without Secrets (Vulkan)](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-preface.html)
 * [Rust OpenGL tutorial](https://nercury.github.io/)
 * [Anton's OpenGL 4 tutorial](https://antongerdelan.net/opengl/)
+* [Dokipen's modern OpenGL 4 tutorial](https://dokipen.com/category/opengl/tutorial-opengl/)
 * [Image filter in Rust using WGPU](https://blog.redwarp.app/image-filters/)
 
 ## JavaScript
@@ -112,6 +123,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Project based learning for programming](https://github.com/tuvtran/project-based-learning)
 * [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 * [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [Race condition series](https://blog.jcoglan.com/2020/09/28/reading-and-writing-part-1/) - Nice blog series on data race conditions
 
 ## Python (not necessarily data related)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - By Allen Downey
@@ -161,6 +173,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Tom Holloway's notes on WGPU](https://nyxtom.dev/2020/10/08/framebuffers/)
 * [The Unofficial Awesome Rust list](https://github.com/rust-unofficial/awesome-rust)
 * [Zero sized types proofs](https://www.hardmo.de/article/2021-03-14-zst-proof-types.md)
+* [Everyone poops](https://cglab.ca/~abeinges/blah/everyone-poops/) - Unsoundness of JoinGuard
 * [Asynchronous streams in Rust (Buffering and such)](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html) - Awesome series on buffering streams and handling types and errors.
 * [GTK-rs tutorial book](https://gtk-rs.org/gtk4-rs/git/book/)
 * [Building an LC-3 virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
