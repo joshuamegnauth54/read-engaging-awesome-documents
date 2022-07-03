@@ -65,6 +65,7 @@ You may submit a pull request or issue with new links if the original changes.
 ## Git
 * [Altassian book](https://www.atlassian.com/git/tutorials)
 * [Simple git guide](https://rogerdudler.github.io/git-guide/)
+* [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 * [Dang It, Git](https://dangitgit.com/) - Useful snippets
 
 ## Graphics and GPU computing
