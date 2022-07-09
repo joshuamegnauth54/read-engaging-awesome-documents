@@ -199,6 +199,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Effective Rust](https://lurklurk.org/effective-rust/)
 * [Rust by Practice](https://practice.rs/)
 * [Shaking off the Rust](https://www.sotr.blog/)
+* [Dependency injection in Rust](https://willcrichton.net/notes/types-over-strings/)
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## SQL
@@ -228,6 +229,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [PipeWire Under the Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
 * [The TTY Demystified](https://www.linusakesson.net/programming/tty/)
 * [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
+* [Awesome CHIP-8](https://chip-8.github.io/) - Resources to write CHIP-8 emulators.
 * [Fibers Under the Magnifying Glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 * [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
 * [Wayland protocol](https://wayland-book.com/)
