@@ -12,6 +12,10 @@ You may submit a pull request or issue with new links if the original changes.
 * [The Boost C++ Libraries](https://theboostcpplibraries.com/) - By Boris Schäling.
 * [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 
+## Cryptography
+* [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh and Victor Shroup
+* [An Introduction to Cryptography](https://www.cs.unibo.it/babaoglu/courses/security/resources/documents/intro-to-crypto.pdf) - PGP
+
 ## Data and statistics
 * [Introduction to Statistical Learning](https://statlearning.com/)
 * [Computer Age Statistical Inference](https://hastie.su.domains/CASI/)
