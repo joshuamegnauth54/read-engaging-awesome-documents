@@ -114,6 +114,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Linear Algebra Notes](http://math.hunter.cuny.edu/klotzmathnotes/Linear%20Algebra/notes) - Richard Klotz of Hunter CUNY.
 * [Gilbert Strang's linear algebra lectures](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 * [OpenStax textbooks](https://openstax.org/)
+* [Discrete Mathematics - An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html)
 * [Calculus Made Easy](https://calculusmadeeasy.org/)
 * [Calculus Made Easy (Gutenberg copy)](https://www.gutenberg.org/ebooks/33283)
 * [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
@@ -126,6 +127,8 @@ You may submit a pull request or issue with new links if the original changes.
 ## Miscellaneous
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - The title of this _Joel On Software_ article is completely accurate.
 * [Project based learning for programming](https://github.com/tuvtran/project-based-learning)
+* [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+* [Systems design primer](https://github.com/donnemartin/system-design-primer)
 * [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 * [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [Race condition series](https://blog.jcoglan.com/2020/09/28/reading-and-writing-part-1/) - Nice blog series on data race conditions
@@ -239,3 +242,6 @@ You may submit a pull request or issue with new links if the original changes.
 * [Wayland protocol](https://wayland-book.com/)
 * [Rusty computer science curriculum](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 * [Software Carpentry](https://software-carpentry.org/)
+
+## Windows
+[The Worst API Ever Made](https://caseymuratori.com/blog_0025)
