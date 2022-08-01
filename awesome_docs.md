@@ -66,6 +66,12 @@ You may submit a pull request or issue with new links if the original changes.
 * [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical info on the GBA, NDS, and 3DS.
 * [Game Boy Op Codes](https://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
 
+## Game development presentations
+* [Approaching zero driver overhead](https://www.gdcvault.com/play/1020791/Approaching-Zero-Driver-Overhead-in)
+* [Don't throw it all away: efficient buffer management](https://developer.nvidia.com/sites/default/files/akamai/gamedev/files/gdc12/Efficient_Buffer_Management_McDonald.pdf)
+* [High performance, low overhead rendering](https://developer.download.nvidia.com/gameworks/events/GDC2016/mschott_lbishop_gl_vulkan.pdf) - GDC 2016
+* [OpenGL like Vulkan](https://developer.nvidia.com/opengl-vulkan)
+
 ## Git
 * [Altassian book](https://www.atlassian.com/git/tutorials)
 * [Simple git guide](https://rogerdudler.github.io/git-guide/)
