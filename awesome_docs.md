@@ -15,6 +15,7 @@ You may submit a pull request or issue with new links if the original changes.
 ## Cryptography
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh and Victor Shroup
 * [An Introduction to Cryptography](https://www.cs.unibo.it/babaoglu/courses/security/resources/documents/intro-to-crypto.pdf) - PGP
+* [CryptoPals](https://cryptopals.com/)
 
 ## Data and statistics
 * [Introduction to Statistical Learning](https://statlearning.com/)
@@ -134,6 +135,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - The title of this _Joel On Software_ article is completely accurate.
 * [Project based learning for programming](https://github.com/tuvtran/project-based-learning)
 * [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+* [Challenging Projects](https://austinhenley.com/blog/challengingprojects.html)
 * [Systems design primer](https://github.com/donnemartin/system-design-primer)
 * [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 * [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
