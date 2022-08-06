@@ -140,12 +140,14 @@ You may submit a pull request or issue with new links if the original changes.
 * [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 * [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [Race condition series](https://blog.jcoglan.com/2020/09/28/reading-and-writing-part-1/) - Nice blog series on data race conditions
+* [Keep a Changelog](https://keepachangelog.com/)
 
 ## Python (not necessarily data related)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - By Allen Downey
 * [LISP interpreter in Python](https://norvig.com/lispy.html) - By Peter Norvig.
-* [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) - By Al Swiegart
+* [Invent with Python](https://inventwithpython.com/) - Al Swiegart's books - includes _Automate the Boring Stuff_ and others. 
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - By Jake VanderPlas
+* [Test Driven Development with Python](https://www.obeythetestinggoat.com/)
 
 ## Rust
 * [Rust Reference](https://doc.rust-lang.org/reference/)
