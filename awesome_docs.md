@@ -5,6 +5,9 @@ The lists below aren't in any particular orders.
 Some of the links may capriciously disappear. Most of the textbooks are mirrored at multiple locations which thus means they're easy to find again.
 You may submit a pull request or issue with new links if the original changes.
 
+## Assembly
+* [The Zen of Assembly](https://github.com/jagregory/abrash-zen-of-asm) - Michael Abrash's out of print book.
+
 ## C and C++
 * [Build Your Own Lisp](http://buildyourownlisp.com/) - By Daniel Holden
 * [Open Data Structures](https://opendatastructures.org/) - Contains ports to other languages.
@@ -180,6 +183,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Rust WebAssembly book](https://rustwasm.github.io/docs/book/)
 * [High Assurance Rust book](https://highassurance.rs/)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system (that I've read so far).
+* [Using unwrap() in Rust is okay](https://blog.burntsushi.net/unwrap/)
 * [Builder pattern with type state](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/) - Excellent explanation of Rust's builder pattern.
 * [Generic Returns](https://blog.jcoglan.com/2019/04/22/generic-returns-in-rust/)
 * [Pin and Suffering](https://fasterthanli.me/articles/pin-and-suffering) - Fasterthanlime (Amos)'s explanation of Futures and Pin.
