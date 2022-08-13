@@ -196,6 +196,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [The Unofficial Awesome Rust list](https://github.com/rust-unofficial/awesome-rust)
 * [Zero sized types proofs](https://www.hardmo.de/article/2021-03-14-zst-proof-types.md)
 * [Everyone poops](https://cglab.ca/~abeinges/blah/everyone-poops/) - Unsoundness of JoinGuard
+* [Rust quiz](https://dtolnay.github.io/rust-quiz/) - Or as I like to think of it, weird Rust.
 * [Asynchronous streams in Rust (Buffering and such)](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html) - Awesome series on buffering streams and handling types and errors.
 * [GTK-rs tutorial book](https://gtk-rs.org/gtk4-rs/git/book/)
 * [Building an LC-3 virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
