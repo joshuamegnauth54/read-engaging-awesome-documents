@@ -65,6 +65,9 @@ You may submit a pull request or issue with new links if the original changes.
 * [Modeling and Solving Linear Programming With R](https://www.omniascience.com/books/index.php/scholar/catalog/book/34)
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - By Max Kuhn and Kjell Johnson
 
+## Data science applications
+* [World record in Hatetris](https://hallofdreams.org/posts/hatetris/) - With Rust!
+
 ## Games
 * [Tonc](https://www.coranac.com/tonc/text/) - Writing Game Boy Advance games.
 * [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical info on the GBA, NDS, and 3DS.
@@ -80,6 +83,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Altassian book](https://www.atlassian.com/git/tutorials)
 * [Simple git guide](https://rogerdudler.github.io/git-guide/)
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+* [Gitmoji](https://gitmoji.dev/) - Emoji guide for commits. Sorry. :man_shrugging:
 * [Dang It, Git](https://dangitgit.com/) - Useful snippets
 
 ## Graphics and GPU computing
@@ -183,6 +187,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Rust WebAssembly book](https://rustwasm.github.io/docs/book/)
 * [High Assurance Rust book](https://highassurance.rs/)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system (that I've read so far).
+* [Running Rust on logic gates](https://zdimension.fr/crabs-all-the-way-down/)
 * [Using unwrap() in Rust is okay](https://blog.burntsushi.net/unwrap/)
 * [Builder pattern with type state](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/) - Excellent explanation of Rust's builder pattern.
 * [Generic Returns](https://blog.jcoglan.com/2019/04/22/generic-returns-in-rust/)
@@ -205,6 +210,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Small Rust binaries](https://github.com/johnthagen/min-sized-rust)
 * [Extension traits](http://xion.io/post/code/rust-extension-traits.html)
 * [Rust Module of the Week](https://motw.rs/)
+* [This week in Rust(TWIR)](https://this-week-in-rust.org/)
 * [Rust in Action MEAP](https://www.manning.com/books/rust-in-action) - Tim McNamara's excellent book. I often see McNamara mentioned on _/r/rust_.
 * [Refactoring to Rust MEAP](https://www.manning.com/books/refactoring-to-rust) - Text on Rust FFI and WASM.
 * [Phil's Operating System in Rust blog](https://os.phil-opp.com/)
@@ -222,6 +228,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Rust by Practice](https://practice.rs/)
 * [Shaking off the Rust](https://www.sotr.blog/)
 * [Dependency injection in Rust](https://willcrichton.net/notes/types-over-strings/)
+* [RustBelt](https://plv.mpi-sws.org/rustbelt/) - Formal verification of Rust's safety.
 * [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## SQL
@@ -250,6 +257,7 @@ You may submit a pull request or issue with new links if the original changes.
 * [Making Sense of the Audio Stack on Unix](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html)
 * [PipeWire Under the Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
 * [The TTY Demystified](https://www.linusakesson.net/programming/tty/)
+* [Rust in perspective](https://people.kernel.org/linusw/rust-in-perspective) - A brief history of language and formal validation
 * [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
 * [Awesome CHIP-8](https://chip-8.github.io/) - Resources to write CHIP-8 emulators.
 * [Fibers Under the Magnifying Glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
