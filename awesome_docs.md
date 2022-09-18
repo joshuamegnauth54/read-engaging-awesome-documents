@@ -15,6 +15,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Open Data Structures](https://opendatastructures.org/) - Contains ports to other languages.
 - [Think C++](https://greenteapress.com/thinkcpp/index.html) - Allen Downey.
 - [The Boost C++ Libraries](https://theboostcpplibraries.com/) - By Boris Schäling.
+- [Linked lists/good tastes](https://github.com/mkirchner/linked-list-good-taste) - An explanation with code of Torvalds' comment about good tastes
 - [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 
 ## Cryptography
@@ -78,6 +79,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Tonc](https://www.coranac.com/tonc/text/) - Writing Game Boy Advance games.
 - [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical info on the GBA, NDS, and 3DS.
 - [Game Boy Op Codes](https://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom
 
 ## Game development presentations
 
