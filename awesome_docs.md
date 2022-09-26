@@ -48,6 +48,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Forecasting Principles and Practices](https://otexts.com/fpp3/) - By Rob J. Hyndman and George Athanasopoulos
 - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [Deep Learning book](https://www.deeplearningbook.org/) - By Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/)
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
@@ -80,6 +81,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical info on the GBA, NDS, and 3DS.
 - [Game Boy Op Codes](https://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom
+- [Coding the Classics 1](https://wireframe.raspberrypi.com/books/code-the-classics1)
 
 ## Game development presentations
 
