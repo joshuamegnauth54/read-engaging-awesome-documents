@@ -23,6 +23,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh and Victor Shroup
 - [An Introduction to Cryptography](https://www.cs.unibo.it/babaoglu/courses/security/resources/documents/intro-to-crypto.pdf) - PGP
 - [CryptoPals](https://cryptopals.com/)
+- [Practical cryptography for developers](https://cryptobook.nakov.com/)
 
 ## Data and statistics
 
@@ -97,6 +98,14 @@ You may submit a pull request or issue with new links if the original changes.
 - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 - [Gitmoji](https://gitmoji.dev/) - Emoji guide for commits. Sorry. :man_shrugging:
 - [Dang It, Git](https://dangitgit.com/) - Useful snippets
+- [First timers only](https://www.firsttimersonly.com/)
+
+## Go
+
+- [Effective Go](https://go.dev/doc/effective_go)
+- [A Tour of Go](https://go.dev/tour/)
+- [Practical cryptography with Go](https://leanpub.com/gocrypto/read)
+- [Go Resources](https://www.golang-book.com/)
 
 ## Graphics and GPU computing
 
