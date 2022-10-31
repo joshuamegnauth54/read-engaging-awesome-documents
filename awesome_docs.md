@@ -293,6 +293,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [The TTY Demystified](https://www.linusakesson.net/programming/tty/)
 - [Rust in perspective](https://people.kernel.org/linusw/rust-in-perspective) - A brief history of language and formal validation
 - [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
+- [Programming from the ground up](https://download-mirror.savannah.gnu.org/releases/pgubook/)
 - [Awesome CHIP-8](https://chip-8.github.io/) - Resources to write CHIP-8 emulators.
 - [Fibers Under the Magnifying Glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 - [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
