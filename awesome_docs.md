@@ -141,6 +141,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [The Odin Project](https://www.theodinproject.com/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [JavaScript compatibility table](https://kangax.github.io/compat-table/)
+- [Can I Use](https://caniuse.com/)
 
 ## Math
 
