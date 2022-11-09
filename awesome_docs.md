@@ -17,6 +17,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [The Boost C++ Libraries](https://theboostcpplibraries.com/) - By Boris Schäling.
 - [Linked lists/good tastes](https://github.com/mkirchner/linked-list-good-taste) - An explanation with code of Torvalds' comment about good tastes
 - [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+- [C isn't a language](https://faultlore.com/blah/c-isnt-a-language/) - It's a protocol! Gankra article.
 
 ## Cryptography
 
@@ -209,6 +210,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [How to Bootstrap a Rust Web API From Scratch](https://www.lpalmieri.com/posts/2020-08-09-zero-to-production-3-how-to-bootstrap-a-new-rust-web-api-from-scratch/) - Excerpt from Luca Palmieri's Rust book.
 - [How to Write a REST Client in Rust](https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/) - Another excerpt from Luca Palmieri's Rust book.
 - [Rust cheat sheet](https://cheats.rs/)
+- [Rust memory container cheat sheet](https://github.com/usagi/rust-memory-container-cs)
 - [Exploring Async Basics in Rust](https://cfsamson.github.io/book-exploring-async-basics/)
 - [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 - [Green Threads Explained in 200 Lines of Rust](https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/)
