@@ -18,6 +18,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Linked lists/good tastes](https://github.com/mkirchner/linked-list-good-taste) - An explanation with code of Torvalds' comment about good tastes
 - [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 - [C isn't a language](https://faultlore.com/blah/c-isnt-a-language/) - It's a protocol! Gankra article.
+- [A byte of coding's list of articles](https://abyteofcoding.com/blog/articles-on-c/)
 
 ## Cryptography
 
@@ -255,11 +256,13 @@ You may submit a pull request or issue with new links if the original changes.
 - [Emergent A.I.](https://psichix.github.io/emergent/)
 - [Safety in Systems Programming course](https://reberhardt.com/cs110l/)
 - [Rustenstein](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
+- [Safely writing code that isn't thread safe](https://cliffle.com/blog/not-thread-safe/) - Rust's type system models data structures that may be either thread safe or not.
 - [PingCap Talent Plan on Distributed Systems](https://github.com/pingcap/talent-plan)
 - [Effective Rust](https://lurklurk.org/effective-rust/)
 - [Rust by Practice](https://practice.rs/)
 - [Shaking off the Rust](https://www.sotr.blog/)
 - [Dependency injection in Rust](https://willcrichton.net/notes/types-over-strings/)
+- [Floating point arcade](https://gist.github.com/CrockAgile/09065649ae5a52629599ebc5645922d6)
 - [RustBelt](https://plv.mpi-sws.org/rustbelt/) - Formal verification of Rust's safety.
 - [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
@@ -297,7 +300,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [The TTY Demystified](https://www.linusakesson.net/programming/tty/)
 - [Rust in perspective](https://people.kernel.org/linusw/rust-in-perspective) - A brief history of language and formal validation
 - [Rant on the zip format](https://games.greggman.com/game/zip-rant/)
-- [Programming from the ground up](https://download-mirror.savannah.gnu.org/releases/pgubook/)
+- [Programming from the ground up](https://savannah.nongnu.org/projects/pgubook)
 - [Awesome CHIP-8](https://chip-8.github.io/) - Resources to write CHIP-8 emulators.
 - [Fibers Under the Magnifying Glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 - [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
