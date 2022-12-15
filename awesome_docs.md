@@ -230,6 +230,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Tiny ECS implementation/tutorial in Rust](https://ianjk.com/ecs-in-rust/)
 - [Bevy engine rhythm game tutorial](https://caballerocoll.com/blog/bevy-rhythm-game/)
 - [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust) - Convert an algorithm from C to "ugly" Rust and then finally to idiomatic Rust.
+- [Idiomatic Rust](https://rust-unofficial.github.io/patterns/)
 - [Tom Holloway's notes on WGPU](https://nyxtom.dev/2020/10/08/framebuffers/)
 - [The Unofficial Awesome Rust list](https://github.com/rust-unofficial/awesome-rust)
 - [Zero sized types proofs](https://www.hardmo.de/article/2021-03-14-zst-proof-types.md)
