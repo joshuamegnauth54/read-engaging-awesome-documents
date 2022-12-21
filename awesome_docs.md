@@ -144,6 +144,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [The Odin Project](https://www.theodinproject.com/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [JavaScript compatibility table](https://kangax.github.io/compat-table/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Impatient JavaScript](https://exploringjs.com/impatient-js/)
 - [Can I Use](https://caniuse.com/)
 
 ## Math
@@ -165,6 +167,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Grinstead and Snell's Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - The LaTeX as well as a rendered PDF are available at that source.
 - [Vector Math for 3D Computer Graphics](https://chortle.ccsu.edu/vectorlessons/)
 - [Cheat sheets from Shervine and Afshine Amidi](https://stanford.edu/~shervine/teaching/)
+- [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 ## Miscellaneous
 
@@ -186,6 +189,10 @@ You may submit a pull request or issue with new links if the original changes.
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - By Jake VanderPlas
 - [Test Driven Development with Python](https://www.obeythetestinggoat.com/)
 - [Peter Norvig's spellcheck](https://norvig.com/spell-correct.html) - Small, Bayes based spellcheck in Python.
+
+## Protocols
+
+- [Quite Okay Image format](https://qoiformat.org/)
 
 ## Rust
 
