@@ -184,6 +184,7 @@ You may submit a pull request or issue with new links if the original changes.
 ## Python (not necessarily data related)
 
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) - By Allen Downey
+- [Cosmic Python](https://www.cosmicpython.com/) - Architecture Design Patterns
 - [LISP interpreter in Python](https://norvig.com/lispy.html) - By Peter Norvig.
 - [Invent with Python](https://inventwithpython.com/) - Al Swiegart's books - includes _Automate the Boring Stuff_ and others.
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - By Jake VanderPlas
