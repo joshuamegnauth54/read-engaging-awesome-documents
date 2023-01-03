@@ -168,6 +168,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Vector Math for 3D Computer Graphics](https://chortle.ccsu.edu/vectorlessons/)
 - [Cheat sheets from Shervine and Afshine Amidi](https://stanford.edu/~shervine/teaching/)
 - [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
 
 ## Miscellaneous
 
