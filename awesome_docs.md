@@ -202,6 +202,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [The Book](https://doc.rust-lang.org/book/) - Official Rust book.
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example) - Annotated code examples to learn Rust.
 - [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Unsafe Rust book.
+- [Rust Atomics and Locks](https://marabos.nl/atomics/) - Rust Atomics and Locks by Mara Bos
 - [Rust API guidelines](https://rust-lang.github.io/api-guidelines/)
 - [Sizedness explanation](https://github.com/pretzelhammer/rust-blog/blob/master/posts/sizedness-in-rust.md) - By Pretzelhammer.
 - [Lifetime misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) - By Pretzelhammer.
