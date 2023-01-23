@@ -138,7 +138,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Dokipen's modern OpenGL 4 tutorial](https://dokipen.com/category/opengl/tutorial-opengl/)
 - [Image filter in Rust using WGPU](https://blog.redwarp.app/image-filters/)
 
-## JavaScript
+## JavaScript/TypeScript
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [The Odin Project](https://www.theodinproject.com/)
@@ -147,6 +147,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Impatient JavaScript](https://exploringjs.com/impatient-js/)
 - [Can I Use](https://caniuse.com/)
+- [TypeScript React cheat sheet](https://react-typescript-cheatsheet.netlify.app/)
 
 ## Math
 
