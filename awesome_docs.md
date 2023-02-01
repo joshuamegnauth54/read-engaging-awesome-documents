@@ -12,6 +12,7 @@ You may submit a pull request or issue with new links if the original changes.
 ## C and C++
 
 - [Build Your Own Lisp](http://buildyourownlisp.com/) - By Daniel Holden
+- [Build Your Own Redis](https://build-your-own.org/)
 - [Open Data Structures](https://opendatastructures.org/) - Contains ports to other languages.
 - [Think C++](https://greenteapress.com/thinkcpp/index.html) - Allen Downey.
 - [The Boost C++ Libraries](https://theboostcpplibraries.com/) - By Boris Schäling.
@@ -181,6 +182,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Race condition series](https://blog.jcoglan.com/2020/09/28/reading-and-writing-part-1/) - Nice blog series on data race conditions
+- [TDD katas](https://kata-log.rocks/tdd)
+- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [Keep a Changelog](https://keepachangelog.com/)
 
 ## Python (not necessarily data related)
@@ -193,7 +196,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Test Driven Development with Python](https://www.obeythetestinggoat.com/)
 - [Peter Norvig's spellcheck](https://norvig.com/spell-correct.html) - Small, Bayes based spellcheck in Python.
 
-## Protocols
+## Protocols and formats
 
 - [Quite Okay Image format](https://qoiformat.org/)
 
@@ -235,6 +238,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Using unwrap() in Rust is okay](https://blog.burntsushi.net/unwrap/)
 - [Builder pattern with type state](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/) - Excellent explanation of Rust's builder pattern.
 - [Generic Returns](https://blog.jcoglan.com/2019/04/22/generic-returns-in-rust/)
+- [Implementing DNS in Rust](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 - [Pin and Suffering](https://fasterthanli.me/articles/pin-and-suffering) - Fasterthanlime (Amos)'s explanation of Futures and Pin.
 - [Writing ping in Rust](https://fasterthanli.me/series/making-our-own-ping) - Fasterthanlime's Rust/computer science tutorial on writing ping from scratch.
 - [Understanding Rust Futures](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep) - Another Futures guide by Fasterthanlime.
@@ -248,6 +252,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Everyone poops](https://cglab.ca/~abeinges/blah/everyone-poops/) - Unsoundness of JoinGuard
 - [Rust quiz](https://dtolnay.github.io/rust-quiz/) - Or as I like to think of it, weird Rust.
 - [Asynchronous streams in Rust (Buffering and such)](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html) - Awesome series on buffering streams and handling types and errors.
+- [Avoiding bounds checks without unsafe](https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e)
 - [GTK-rs tutorial book](https://gtk-rs.org/gtk4-rs/git/book/)
 - [Building an LC-3 virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
 - [Raspberry Pi OS tutorial](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
