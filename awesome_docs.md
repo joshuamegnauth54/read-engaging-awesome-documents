@@ -149,6 +149,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Impatient JavaScript](https://exploringjs.com/impatient-js/)
 - [Can I Use](https://caniuse.com/)
 - [TypeScript React cheat sheet](https://react-typescript-cheatsheet.netlify.app/)
+- [DefinitelyTyped](https://definitelytyped.github.io/) - Repository of type definitions.
 
 ## Math
 
@@ -297,6 +298,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Crafting Interpeters](https://craftinginterpreters.com/) - Book explaining how to write interpreters.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
+- [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
 - [The modern algorithmic tool box](https://web.stanford.edu/class/cs168/index.html) - Stanford
 - [Advanced data structures class](https://courses.csail.mit.edu/6.851/spring21/) - MIT
