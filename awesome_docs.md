@@ -186,6 +186,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [TDD katas](https://kata-log.rocks/tdd)
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [Keep a Changelog](https://keepachangelog.com/)
+- [Programming fonts](https://www.programmingfonts.org/)
+- [Explained from First Principles](https://explained-from-first-principles.com/)
 
 ## Python (not necessarily data related)
 
@@ -199,6 +201,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Protocols and formats
 
+- [Wayland protocol](https://wayland-book.com/)
 - [Quite Okay Image format](https://qoiformat.org/)
 
 ## Rust
@@ -322,8 +325,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [Programming from the ground up](https://savannah.nongnu.org/projects/pgubook)
 - [Awesome CHIP-8](https://chip-8.github.io/) - Resources to write CHIP-8 emulators.
 - [Fibers Under the Magnifying Glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
+- [C is not a low level programming language](https://queue.acm.org/detail.cfm?id=3212479)
 - [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
-- [Wayland protocol](https://wayland-book.com/)
 - [Rusty computer science curriculum](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - [Software Carpentry](https://software-carpentry.org/)
 
