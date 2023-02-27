@@ -136,7 +136,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [An API Without Secrets (Vulkan)](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-preface.html)
 - [Rust OpenGL tutorial](https://nercury.github.io/)
 - [Anton's OpenGL 4 tutorial](https://antongerdelan.net/opengl/)
-- [Dokipen's modern OpenGL 4 tutorial](https://dokipen.com/category/opengl/tutorial-opengl/)
+- [Guide to modern OpenGL functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
 - [Image filter in Rust using WGPU](https://blog.redwarp.app/image-filters/)
 
 ## JavaScript/TypeScript
