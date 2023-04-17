@@ -20,6 +20,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 - [C isn't a language](https://faultlore.com/blah/c-isnt-a-language/) - It's a protocol! Gankra article.
 - [A byte of coding's list of articles](https://abyteofcoding.com/blog/articles-on-c/)
+- [Beej's C programming book](https://beej.us/guide/bgc/)
 
 ## Cryptography
 
@@ -139,15 +140,19 @@ You may submit a pull request or issue with new links if the original changes.
 - [Guide to modern OpenGL functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
 - [Image filter in Rust using WGPU](https://blog.redwarp.app/image-filters/)
 
-## JavaScript/TypeScript
+## JavaScript/TypeScript/Web
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [The Odin Project](https://www.theodinproject.com/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [JSbooks](https://jsbooks.revolunet.com/)
 - [JavaScript compatibility table](https://kangax.github.io/compat-table/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Impatient JavaScript](https://exploringjs.com/impatient-js/)
+- [Fullstack open](https://fullstackopen.com/en/part0/general_info)
 - [Can I Use](https://caniuse.com/)
+- [HTML elements cheat sheet](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML and CSS cheat sheet](https://htmlcheatsheet.com/)
 - [TypeScript React cheat sheet](https://react-typescript-cheatsheet.netlify.app/)
 - [DefinitelyTyped](https://definitelytyped.github.io/) - Repository of type definitions.
 
@@ -172,6 +177,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Cheat sheets from Shervine and Afshine Amidi](https://stanford.edu/~shervine/teaching/)
 - [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
+- [Tyler Wallace's Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/)
 
 ## Miscellaneous
 
@@ -180,6 +186,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Challenging Projects](https://austinhenley.com/blog/challengingprojects.html)
 - [Systems design primer](https://github.com/donnemartin/system-design-primer)
+- [DevDocs](https://devdocs.io/) - Gathers several APIs in one location
 - [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Race condition series](https://blog.jcoglan.com/2020/09/28/reading-and-writing-part-1/) - Nice blog series on data race conditions
@@ -223,6 +230,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [A Gentle Introduction to Rust by Steve Donovan](https://stevedonovan.github.io/rust-gentle-intro/) - One of my favorite Rust tutorials.
 - [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - Draw a triangle using the Win32 C API without any outside dependencies.
 - [Minimal Lua implementation from scratch](https://notes.eatonphil.com/lua-in-rust.html)
+- [Build Lua in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 - [Vulkano library and tutorial](https://vulkano.rs/) - Vulkano is a safe, Rusty abstraction over Vulkan.
 - [Rust Error Handling](https://blog.burntsushi.net/rust-error-handling/) - Burntsushi's excellent guide on Rust error handling techniques.
 - [Error Handling in Rust - A Deep Dive](https://www.lpalmieri.com/posts/error-handling-rust/) - Excerpt from Luca Palmieri's Rust book (error handling).
