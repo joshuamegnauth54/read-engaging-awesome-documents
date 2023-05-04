@@ -139,6 +139,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [Anton's OpenGL 4 tutorial](https://antongerdelan.net/opengl/)
 - [Guide to modern OpenGL functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
 - [Image filter in Rust using WGPU](https://blog.redwarp.app/image-filters/)
+- [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) - A great, succinct explanation on the evolution of graphics APIs and why WGPU is exciting.
+- [Raw WebGPU](https://alain.xyz/blog/raw-webgpu) - TypeScript WGPU tutorial
 
 ## JavaScript/TypeScript/Web
 
