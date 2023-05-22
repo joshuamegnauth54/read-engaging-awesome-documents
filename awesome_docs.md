@@ -192,11 +192,14 @@ You may submit a pull request or issue with new links if the original changes.
 - [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Race condition series](https://blog.jcoglan.com/2020/09/28/reading-and-writing-part-1/) - Nice blog series on data race conditions
+- [Accidentally Quadratic](https://accidentallyquadratic.tumblr.com/)
+- [Bruce Dawson's blog](https://randomascii.wordpress.com/) - On performance and such
 - [TDD katas](https://kata-log.rocks/tdd)
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [Keep a Changelog](https://keepachangelog.com/)
 - [Programming fonts](https://www.programmingfonts.org/)
 - [Explained from First Principles](https://explained-from-first-principles.com/)
+- [How I cut GTA Online's loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 
 ## Python (not necessarily data related)
 
@@ -207,6 +210,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - By Jake VanderPlas
 - [Test Driven Development with Python](https://www.obeythetestinggoat.com/)
 - [Peter Norvig's spellcheck](https://norvig.com/spell-correct.html) - Small, Bayes based spellcheck in Python.
+- [Writing Python like it's Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 
 ## Protocols and formats
 
