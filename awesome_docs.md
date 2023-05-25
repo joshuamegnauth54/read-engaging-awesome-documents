@@ -110,6 +110,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [A Tour of Go](https://go.dev/tour/)
 - [Practical cryptography with Go](https://leanpub.com/gocrypto/read)
 - [Go Resources](https://www.golang-book.com/)
+- [Writing a SQL database in Go](https://notes.eatonphil.com/database-basics.html)
 
 ## Graphics and GPU computing
 
