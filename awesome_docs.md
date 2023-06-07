@@ -200,6 +200,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Keep a Changelog](https://keepachangelog.com/)
 - [Programming fonts](https://www.programmingfonts.org/)
 - [Explained from First Principles](https://explained-from-first-principles.com/)
+- [Type system counter examples](https://counterexamples.org/)
 - [How I cut GTA Online's loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 
 ## Python (not necessarily data related)
@@ -298,6 +299,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Rust by Practice](https://practice.rs/)
 - [Shaking off the Rust](https://www.sotr.blog/)
 - [Dependency injection in Rust](https://willcrichton.net/notes/types-over-strings/)
+- [Dependency injection like Bevy](https://promethia-27.github.io/dependency_injection_like_bevy_from_scratch/introductions.html)
 - [Floating point arcade](https://gist.github.com/CrockAgile/09065649ae5a52629599ebc5645922d6)
 - [RustBelt](https://plv.mpi-sws.org/rustbelt/) - Formal verification of Rust's safety.
 - [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
