@@ -29,7 +29,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [CryptoPals](https://cryptopals.com/)
 - [Practical cryptography for developers](https://cryptobook.nakov.com/)
 
-## Data and statistics
+## Data science and statistics
 
 - [Introduction to Statistical Learning](https://statlearning.com/)
 - [Computer Age Statistical Inference](https://hastie.su.domains/CASI/)
@@ -66,6 +66,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [spaCy course](https://course.spacy.io) - Course on spaCy (NLP) by Ines, a core developer.
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 - [Data Mining and Machine Learning](https://dataminingbook.info/book_html/)
+- [Data-driven science and engineering](https://databookuw.com/)
 - [Guide to Data Mining](http://guidetodatamining.com/)
 - [R for Data Science](https://r4ds.had.co.nz/) - By Hadley Wickham.
 - [Advanced R](https://adv-r.hadley.nz/) - By Hadley Wickham.
@@ -139,6 +140,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Rust OpenGL tutorial](https://nercury.github.io/)
 - [Anton's OpenGL 4 tutorial](https://antongerdelan.net/opengl/)
 - [Guide to modern OpenGL functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
+- [GPU programming: when, why, and how?](https://enccs.github.io/gpu-programming/)
 - [Image filter in Rust using WGPU](https://blog.redwarp.app/image-filters/)
 - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) - A great, succinct explanation on the evolution of graphics APIs and why WGPU is exciting.
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu) - TypeScript WGPU tutorial
@@ -348,6 +350,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
 - [Rusty computer science curriculum](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - [Software Carpentry](https://software-carpentry.org/)
+- [Unixism](https://unixism.net/)
+- [Chompie](https://chompie.rip/Home)
 
 ## Windows
 
