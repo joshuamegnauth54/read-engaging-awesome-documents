@@ -11,6 +11,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## C and C++
 
+- [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
 - [Build Your Own Lisp](http://buildyourownlisp.com/) - By Daniel Holden
 - [Build Your Own Redis](https://build-your-own.org/)
 - [Open Data Structures](https://opendatastructures.org/) - Contains ports to other languages.
@@ -205,6 +206,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Explained from First Principles](https://explained-from-first-principles.com/)
 - [Type system counter examples](https://counterexamples.org/)
 - [How I cut GTA Online's loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+- [Barbarian meets coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/)
 
 ## Python (not necessarily data related)
 
