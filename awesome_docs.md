@@ -253,6 +253,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Rust cheat sheet](https://cheats.rs/)
 - [Rust memory container cheat sheet](https://github.com/usagi/rust-memory-container-cs)
 - [Exploring Async Basics in Rust](https://cfsamson.github.io/book-exploring-async-basics/)
+- [Learn Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
 - [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 - [Green Threads Explained in 200 Lines of Rust](https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/)
 - [PNGme project](https://picklenerd.github.io/pngme_book/) - Write a program to hide messages in PNG.
@@ -263,6 +264,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Running Rust on logic gates](https://zdimension.fr/crabs-all-the-way-down/)
 - [Using unwrap() in Rust is okay](https://blog.burntsushi.net/unwrap/)
 - [Builder pattern with type state](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/) - Excellent explanation of Rust's builder pattern.
+- [Typestate pattern in Rust](https://cliffle.com/blog/rust-typestate/)
 - [Generic Returns](https://blog.jcoglan.com/2019/04/22/generic-returns-in-rust/)
 - [Implementing DNS in Rust](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 - [Pin and Suffering](https://fasterthanli.me/articles/pin-and-suffering) - Fasterthanlime (Amos)'s explanation of Futures and Pin.
@@ -325,6 +327,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
 - [Teach Yourself CS](https://teachyourselfcs.com/)
+- [CPU land](https://cpu.land/)
 - [Self-guided course on advanced compilers (Cornell)](https://www.cs.cornell.edu/courses/cs6120/)
 - [The modern algorithmic tool box](https://web.stanford.edu/class/cs168/index.html) - Stanford
 - [Advanced data structures class](https://courses.csail.mit.edu/6.851/spring21/) - MIT
