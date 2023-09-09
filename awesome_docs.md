@@ -20,6 +20,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Linked lists/good tastes](https://github.com/mkirchner/linked-list-good-taste) - An explanation with code of Torvalds' comment about good tastes
 - [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 - [C isn't a language](https://faultlore.com/blah/c-isnt-a-language/) - It's a protocol! Gankra article.
+- [Memory order in C++](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 - [A byte of coding's list of articles](https://abyteofcoding.com/blog/articles-on-c/)
 - [Beej's C programming book](https://beej.us/guide/bgc/)
 
