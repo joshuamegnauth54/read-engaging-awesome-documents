@@ -114,6 +114,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Practical cryptography with Go](https://leanpub.com/gocrypto/read)
 - [Go Resources](https://www.golang-book.com/)
 - [Writing a SQL database in Go](https://notes.eatonphil.com/database-basics.html)
+- [Backend from the Beginning](https://eblog.fly.dev/backendbasics.html)
 
 ## Graphics and GPU computing
 
