@@ -20,6 +20,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Linked lists/good tastes](https://github.com/mkirchner/linked-list-good-taste) - An explanation with code of Torvalds' comment about good tastes
 - [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 - [C isn't a language](https://faultlore.com/blah/c-isnt-a-language/) - It's a protocol! Gankra article.
+- [Nine ways to break systems code using volatile](https://blog.regehr.org/archives/28)
 - [Memory order in C++](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 - [A byte of coding's list of articles](https://abyteofcoding.com/blog/articles-on-c/)
 - [Beej's C programming book](https://beej.us/guide/bgc/)
@@ -89,6 +90,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical info on the GBA, NDS, and 3DS.
 - [Game Boy Op Codes](https://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom
+- [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 - [Coding the Classics 1](https://wireframe.raspberrypi.com/books/code-the-classics1)
 
 ## Game development presentations
