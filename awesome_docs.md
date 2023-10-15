@@ -21,6 +21,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [Reverse Engineering x86 basics](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 - [C isn't a language](https://faultlore.com/blah/c-isnt-a-language/) - It's a protocol! Gankra article.
 - [Nine ways to break systems code using volatile](https://blog.regehr.org/archives/28)
+- [Wayland from Scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
+- [Learn x86 by building a GUI](https://gaultier.github.io/blog/x11_x64.html)
 - [Memory order in C++](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 - [A byte of coding's list of articles](https://abyteofcoding.com/blog/articles-on-c/)
 - [Beej's C programming book](https://beej.us/guide/bgc/)
@@ -212,6 +214,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Type system counter examples](https://counterexamples.org/)
 - [How I cut GTA Online's loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 - [Barbarian meets coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/)
+- [Composing Programs](https://www.composingprograms.com/)
 
 ## Python (not necessarily data related)
 
