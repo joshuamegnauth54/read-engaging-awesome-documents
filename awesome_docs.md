@@ -315,6 +315,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Shaking off the Rust](https://www.sotr.blog/)
 - [Dependency injection in Rust](https://willcrichton.net/notes/types-over-strings/)
 - [Dependency injection like Bevy](https://promethia-27.github.io/dependency_injection_like_bevy_from_scratch/introductions.html)
+- [Why async Rust?](https://without.boats/blog/why-async-rust/) - Short history on how Rust ended up with stackless async
 - [Floating point arcade](https://gist.github.com/CrockAgile/09065649ae5a52629599ebc5645922d6)
 - [RustBelt](https://plv.mpi-sws.org/rustbelt/) - Formal verification of Rust's safety.
 - [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
