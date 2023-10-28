@@ -26,6 +26,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Memory order in C++](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 - [A byte of coding's list of articles](https://abyteofcoding.com/blog/articles-on-c/)
 - [Beej's C programming book](https://beej.us/guide/bgc/)
+- [Vector in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
 
 ## Cryptography
 
@@ -152,6 +153,9 @@ You may submit a pull request or issue with new links if the original changes.
 - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) - A great, succinct explanation on the evolution of graphics APIs and why WGPU is exciting.
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu) - TypeScript WGPU tutorial
 - [Tiny ray tracer](https://github.com/ssloy/tinyraytracer/wiki)
+
+## Haskell
+- [Git clone in Haskell](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 
 ## JavaScript/TypeScript/Web
 
