@@ -24,6 +24,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Wayland from Scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 - [Learn x86 by building a GUI](https://gaultier.github.io/blog/x11_x64.html)
 - [Memory order in C++](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
+- [Concurrency costs](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
 - [A byte of coding's list of articles](https://abyteofcoding.com/blog/articles-on-c/)
 - [Beej's C programming book](https://beej.us/guide/bgc/)
 - [Vector in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
