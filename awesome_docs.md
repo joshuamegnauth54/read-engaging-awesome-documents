@@ -29,6 +29,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [A byte of coding's list of articles](https://abyteofcoding.com/blog/articles-on-c/)
 - [Beej's C programming book](https://beej.us/guide/bgc/)
 - [Vector in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
+- [Modern C++](https://github.com/federico-busato/Modern-CPP-Programming)
 
 ## Cryptography
 
@@ -123,6 +124,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Go Resources](https://www.golang-book.com/)
 - [Writing a SQL database in Go](https://notes.eatonphil.com/database-basics.html)
 - [Backend from the Beginning](https://eblog.fly.dev/backendbasics.html)
+- [Writing games in Go](https://threedots.tech/post/making-games-in-go/)
 
 ## Graphics and GPU computing
 
