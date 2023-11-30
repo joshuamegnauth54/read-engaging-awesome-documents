@@ -327,6 +327,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Why async Rust?](https://without.boats/blog/why-async-rust/) - Short history on how Rust ended up with stackless async
 - [Floating point arcade](https://gist.github.com/CrockAgile/09065649ae5a52629599ebc5645922d6)
 - [RustBelt](https://plv.mpi-sws.org/rustbelt/) - Formal verification of Rust's safety.
+- [SIMD base64](https://mcyoung.xyz/2023/11/27/simd-base64/) - Designing a SIMD algorithm from scratch
 - [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## SQL
