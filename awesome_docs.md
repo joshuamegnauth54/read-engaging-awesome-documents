@@ -30,6 +30,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Beej's C programming book](https://beej.us/guide/bgc/)
 - [Vector in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
 - [Modern C++](https://github.com/federico-busato/Modern-CPP-Programming)
+- [Safe C & C++ compiler opts](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 
 ## Cryptography
 
