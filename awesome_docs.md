@@ -382,3 +382,7 @@ You may submit a pull request or issue with new links if the original changes.
 ## Windows
 
 [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
+
+## Zig
+
+[Intercepting system calls](https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html)
