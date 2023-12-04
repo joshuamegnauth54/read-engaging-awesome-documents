@@ -179,6 +179,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [HTML and CSS cheat sheet](https://htmlcheatsheet.com/)
 - [TypeScript React cheat sheet](https://react-typescript-cheatsheet.netlify.app/)
 - [DefinitelyTyped](https://definitelytyped.github.io/) - Repository of type definitions.
+- [HTML Hell](https://www.htmhell.dev/)
 
 ## Math
 
