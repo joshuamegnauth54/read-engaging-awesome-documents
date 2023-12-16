@@ -31,6 +31,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Vector in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
 - [Modern C++](https://github.com/federico-busato/Modern-CPP-Programming)
 - [Safe C & C++ compiler opts](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+- [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 
 ## Cryptography
 
