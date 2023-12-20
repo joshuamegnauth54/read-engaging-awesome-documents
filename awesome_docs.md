@@ -307,7 +307,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Small Rust binaries](https://github.com/johnthagen/min-sized-rust)
 - [Extension traits](http://xion.io/post/code/rust-extension-traits.html)
 - [Rust Module of the Week](https://motw.rs/)
-- [This week in Rust(TWIR)](https://this-week-in-rust.org/)
+- [This week in Rust (TWIR)](https://this-week-in-rust.org/)
 - [Rust in Action MEAP](https://www.manning.com/books/rust-in-action) - Tim McNamara's excellent book. I often see McNamara mentioned on _/r/rust_.
 - [Refactoring to Rust MEAP](https://www.manning.com/books/refactoring-to-rust) - Text on Rust FFI and WASM.
 - [Phil's Operating System in Rust blog](https://os.phil-opp.com/)
@@ -331,6 +331,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [Floating point arcade](https://gist.github.com/CrockAgile/09065649ae5a52629599ebc5645922d6)
 - [RustBelt](https://plv.mpi-sws.org/rustbelt/) - Formal verification of Rust's safety.
 - [SIMD base64](https://mcyoung.xyz/2023/11/27/simd-base64/) - Designing a SIMD algorithm from scratch
+- [Behind the scenes of Rust String formatting](https://blog.m-ou.se/format-args/)
+- [Cautionary unsafe tale](https://notgull.net/cautionary-unsafe-tale/)
 - [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## SQL
