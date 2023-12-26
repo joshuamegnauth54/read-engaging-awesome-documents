@@ -8,6 +8,7 @@ You may submit a pull request or issue with new links if the original changes.
 ## Assembly
 
 - [The Zen of Assembly](https://github.com/jagregory/abrash-zen-of-asm) - Michael Abrash's out of print book.
+- [x86 assembly with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html)
 
 ## C and C++
 
