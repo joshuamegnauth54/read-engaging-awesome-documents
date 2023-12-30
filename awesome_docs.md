@@ -381,6 +381,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
 - [Rusty computer science curriculum](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - [Software Carpentry](https://software-carpentry.org/)
+- [The Art of HPC](https://theartofhpc.com/)
 - [Unixism](https://unixism.net/)
 - [Chompie](https://chompie.rip/Home)
 
