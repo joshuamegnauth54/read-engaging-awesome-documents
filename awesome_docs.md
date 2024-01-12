@@ -384,6 +384,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [The Art of HPC](https://theartofhpc.com/)
 - [Unixism](https://unixism.net/)
 - [Chompie](https://chompie.rip/Home)
+- [Use openat](https://val.packett.cool/blog/use-openat/)
 
 ## Windows
 
