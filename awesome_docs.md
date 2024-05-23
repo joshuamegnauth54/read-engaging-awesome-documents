@@ -164,6 +164,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Haskell
 - [Git clone in Haskell](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
+- [Guide to Haskell strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
 
 ## JavaScript/TypeScript/Web
 
