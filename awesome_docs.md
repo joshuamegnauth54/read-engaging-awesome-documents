@@ -337,6 +337,9 @@ You may submit a pull request or issue with new links if the original changes.
 - [Cautionary unsafe tale](https://notgull.net/cautionary-unsafe-tale/)
 - [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
+## Security
+- [Router Security](https://routersecurity.org/)
+
 ## SQL
 
 - [PostgreSQL Exercises](https://pgexercises.com/)
@@ -364,6 +367,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Data Compression Explained](http://mattmahoney.net/dc/dce.html)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
+- [OSDev](https://wiki.osdev.org)
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 - [Kernel Newbies](https://kernelnewbies.org/)
 - [Mike Acton of Naughty Dog discussing data oriented design (Video, CppCon)](https://www.youtube.com/watch?v=rX0ItVEVjHc)
