@@ -33,6 +33,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Modern C++](https://github.com/federico-busato/Modern-CPP-Programming)
 - [Safe C & C++ compiler opts](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
+- [Lost art of structure packing](http://www.catb.org/esr/structure-packing/)
 
 ## Cryptography
 
@@ -336,6 +337,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [SIMD base64](https://mcyoung.xyz/2023/11/27/simd-base64/) - Designing a SIMD algorithm from scratch
 - [Behind the scenes of Rust String formatting](https://blog.m-ou.se/format-args/)
 - [Cautionary unsafe tale](https://notgull.net/cautionary-unsafe-tale/)
+- [Rust collections case study](https://cglab.ca/~abeinges/blah/)
 - [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## Security
@@ -399,4 +401,5 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## Zig
 
+[Introduction to Zig](https://pedropark99.github.io/zig-book/)
 [Intercepting system calls](https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html)
