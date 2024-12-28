@@ -32,6 +32,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Vector in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
 - [Modern C++](https://github.com/federico-busato/Modern-CPP-Programming)
 - [Safe C & C++ compiler opts](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+- [Writing a shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 - [Lost art of structure packing](http://www.catb.org/esr/structure-packing/)
 
@@ -370,6 +371,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Data Compression Explained](http://mattmahoney.net/dc/dce.html)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
+- [Everything you ever wanted to know about Hello World](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
 - [OSDev](https://wiki.osdev.org)
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 - [Kernel Newbies](https://kernelnewbies.org/)
