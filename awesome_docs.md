@@ -42,6 +42,8 @@ You may submit a pull request or issue with new links if the original changes.
 - [An Introduction to Cryptography](https://www.cs.unibo.it/babaoglu/courses/security/resources/documents/intro-to-crypto.pdf) - PGP
 - [CryptoPals](https://cryptopals.com/)
 - [Practical cryptography for developers](https://cryptobook.nakov.com/)
+- [Don't use Session](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
+- [Security issues in libolm](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
 
 ## Data science and statistics
 
@@ -396,6 +398,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Unixism](https://unixism.net/)
 - [Chompie](https://chompie.rip/Home)
 - [Use openat](https://val.packett.cool/blog/use-openat/)
+- [Operating system in under 1000 lines](https://github.com/nuta/operating-system-in-1000-lines/)
 
 ## Windows
 
