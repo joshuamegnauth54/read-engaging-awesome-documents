@@ -390,6 +390,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Fibers Under the Magnifying Glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 - [C is not a low level programming language](https://queue.acm.org/detail.cfm?id=3212479)
 - [Let's be real about dependencies](https://wiki.alopex.li/LetsBeRealAboutDependencies)
+- [Rewriting essential Linux packages in Rust](https://lwn.net/SubscriberLink/1007907/a9db87fc233bceae/)
 - [Open Computer Systems Fundamentals](https://opencsf.org/)
 - [The compositor is evil](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
 - [Rusty computer science curriculum](https://github.com/AbdesamedBendjeddou/Rusty-CS)
