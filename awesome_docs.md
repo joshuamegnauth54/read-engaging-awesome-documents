@@ -389,6 +389,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Awesome CHIP-8](https://chip-8.github.io/) - Resources to write CHIP-8 emulators.
 - [Fibers Under the Magnifying Glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 - [C is not a low level programming language](https://queue.acm.org/detail.cfm?id=3212479)
+- [SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf) - Brief history of SQLite + optimization
 - [Let's be real about dependencies](https://wiki.alopex.li/LetsBeRealAboutDependencies)
 - [Rewriting essential Linux packages in Rust](https://lwn.net/SubscriberLink/1007907/a9db87fc233bceae/)
 - [Open Computer Systems Fundamentals](https://opencsf.org/)
