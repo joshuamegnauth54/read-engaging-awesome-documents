@@ -311,6 +311,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Building an LC-3 virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
 - [Raspberry Pi OS tutorial](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 - [The Rust Embedded Book](https://rust-embedded.github.io/book/)
+- [Rust on ESP32](https://esp32.implrust.com/)
 - [Small Rust binaries](https://github.com/johnthagen/min-sized-rust)
 - [Extension traits](http://xion.io/post/code/rust-extension-traits.html)
 - [Rust Module of the Week](https://motw.rs/)
