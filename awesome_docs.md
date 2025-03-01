@@ -375,6 +375,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 - [Everything you ever wanted to know about Hello World](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
+- [glibc's dynamic linker](https://blog.ksub.org/bytes/2016/07/23/ld.so-glibcs-dynanic-linker/loader/)
 - [OSDev](https://wiki.osdev.org)
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 - [Kernel Newbies](https://kernelnewbies.org/)
