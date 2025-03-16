@@ -35,6 +35,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Writing a shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 - [Lost art of structure packing](http://www.catb.org/esr/structure-packing/)
+- [readdir_r sucks](https://elliotth.blogspot.com/2012/10/how-not-to-use-readdirr3.html)
 
 ## Cryptography
 
