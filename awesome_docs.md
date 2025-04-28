@@ -403,6 +403,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Unixism](https://unixism.net/)
 - [Chompie](https://chompie.rip/Home)
 - [Use openat](https://val.packett.cool/blog/use-openat/)
+- [Linux Device Drivers](https://lwn.net/Kernel/LDD3/)
 - [Operating system in under 1000 lines](https://github.com/nuta/operating-system-in-1000-lines/)
 - [Waiting on child process with timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 - [50 Years of file systems](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
