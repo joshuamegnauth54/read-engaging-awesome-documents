@@ -103,6 +103,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 - [Tonc](https://www.coranac.com/tonc/text/) - Writing Game Boy Advance games.
 - [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical info on the GBA, NDS, and 3DS.
+- [Game Boy cartridges](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
 - [Game Boy Op Codes](https://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom
 - [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
