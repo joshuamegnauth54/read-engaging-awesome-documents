@@ -236,6 +236,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [How I cut GTA Online's loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 - [Barbarian meets coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/)
 - [Composing Programs](https://www.composingprograms.com/)
+- [TOR biography](https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy)
 
 ## Python (not necessarily data related)
 
