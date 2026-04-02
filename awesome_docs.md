@@ -345,6 +345,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Behind the scenes of Rust String formatting](https://blog.m-ou.se/format-args/)
 - [Cautionary unsafe tale](https://notgull.net/cautionary-unsafe-tale/)
 - [Rust collections case study](https://cglab.ca/~abeinges/blah/)
+- [Never snooze a future](https://jacko.io/snooze.html)
 - [Video: Catherine West's talk on ECS with Rust](https://www.youtube.com/watch?v=aKLntZcp27M)
 
 ## Security
