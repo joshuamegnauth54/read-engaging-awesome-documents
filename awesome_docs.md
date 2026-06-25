@@ -364,6 +364,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/) - A book on the kernel's innards.
 - [Crafting Interpeters](https://craftinginterpreters.com/) - Book explaining how to write interpreters.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 - [OverTheWire](https://overthewire.org/wargames/) - Command and security practice.
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [CPU land](https://cpu.land/)
