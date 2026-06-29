@@ -288,6 +288,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [PNGme project](https://picklenerd.github.io/pngme_book/) - Write a program to hide messages in PNG.
 - [RISC operating system in Rust](https://osblog.stephenmarz.com/) - By Stephen Marz
 - [Rust WebAssembly book](https://rustwasm.github.io/docs/book/)
+- [Rust to WebAssembly the Hard Way](https://surma.dev/things/rust-to-webassembly/)
 - [High Assurance Rust book](https://highassurance.rs/)
 - [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - The best explanation of Rust's module system (that I've read so far).
 - [Running Rust on logic gates](https://zdimension.fr/crabs-all-the-way-down/)
