@@ -355,6 +355,7 @@ You may submit a pull request or issue with new links if the original changes.
 
 ## SQL
 
+- [Internals of PostgreSQL](https://www.interdb.jp/pg/)
 - [PostgreSQL Exercises](https://pgexercises.com/)
 
 ## Unix/Computing
