@@ -382,6 +382,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/)
 - [Data Compression Explained](http://mattmahoney.net/dc/dce.html)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [xv6](https://pdos.csail.mit.edu/6.828/2026/xv6.html)
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Paper by Ulrich Drepper.
 - [Everything you ever wanted to know about Hello World](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
 - [glibc's dynamic linker](https://blog.ksub.org/bytes/2016/07/23/ld.so-glibcs-dynanic-linker/loader/)
