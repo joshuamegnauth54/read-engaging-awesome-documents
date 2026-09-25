@@ -238,6 +238,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Barbarian meets coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/)
 - [Composing Programs](https://www.composingprograms.com/)
 - [TOR biography](https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy)
+- [Software folklore](https://beza1e1.tuxen.de/lore/index.html)
 
 ## Python (not necessarily data related)
 
@@ -416,6 +417,7 @@ You may submit a pull request or issue with new links if the original changes.
 - [Operating system in under 1000 lines](https://github.com/nuta/operating-system-in-1000-lines/)
 - [Waiting on child process with timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 - [50 Years of file systems](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
+- [Software sandboxing](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
 
 ## Windows
 
